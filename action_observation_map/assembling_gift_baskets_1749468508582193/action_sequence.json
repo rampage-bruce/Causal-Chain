@@ -1,0 +1,161 @@
+{
+    "navigate_to(wicker_basket_89)_1": [
+        "00705.png"
+    ],
+    "grasp(wicker_basket_89)_1": [
+        "00916.png"
+    ],
+    "navigate_to(wicker_basket_91)_1": [],
+    "grasp(wicker_basket_91)_1": [
+        "01127.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_1": [
+        "01732.png"
+    ],
+    "place_ontop(wicker_basket_89, bottom_cabinet_rhdbzv_0)_1": [
+        "01732.png"
+    ],
+    "place_ontop(wicker_basket_91, bottom_cabinet_rhdbzv_0)_1": [
+        "01943.png"
+    ],
+    "navigate_to(wicker_basket_92)_1": [
+        "02424.png"
+    ],
+    "grasp(wicker_basket_92)_1": [
+        "02635.png"
+    ],
+    "navigate_to(wicker_basket_90)_1": [],
+    "grasp(wicker_basket_90)_1": [
+        "02846.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_2": [],
+    "place_ontop(wicker_basket_90, bottom_cabinet_rhdbzv_0)_1": [
+        "03479.png"
+    ],
+    "place_ontop(wicker_basket_92, bottom_cabinet_rhdbzv_0)_1": [
+        "03690.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_1": [],
+    "grasp(bow_74)_1": [
+        "04150.png"
+    ],
+    "grasp(bow_76)_1": [
+        "04361.png",
+        "04854.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_3": [
+        "05065.png"
+    ],
+    "place_inside(bow_74, wicker_basket_89)_1": [
+        "05310.png"
+    ],
+    "place_inside(bow_76, wicker_basket_91)_1": [
+        "05310.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_2": [
+        "06574.png"
+    ],
+    "grasp(bow_73)_1": [
+        "06785.png"
+    ],
+    "grasp(bow_75)_1": [
+        "07616.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_4": [
+        "07827.png"
+    ],
+    "place_inside(bow_73, wicker_basket_90)_1": [
+        "08389.png"
+    ],
+    "place_inside(bow_75, wicker_basket_92)_1": [
+        "08389.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_3": [],
+    "grasp(pillar_candle_86)_1": [
+        "09438.png"
+    ],
+    "grasp(pillar_candle_88)_1": [
+        "09649.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_5": [],
+    "place_inside(pillar_candle_86, wicker_basket_92)_1": [
+        "10212.png",
+        "10423.png"
+    ],
+    "place_inside(pillar_candle_88, wicker_basket_90)_1": [
+        "10212.png",
+        "10423.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_4": [],
+    "grasp(butter_cookie_84)_1": [
+        "11149.png",
+        "11360.png"
+    ],
+    "grasp(butter_cookie_81)_1": [
+        "11834.png",
+        "12045.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_6": [
+        "12405.png",
+        "12616.png"
+    ],
+    "place_inside(butter_cookie_84, wicker_basket_92)_1": [
+        "12405.png",
+        "12616.png"
+    ],
+    "place_inside(butter_cookie_81, wicker_basket_90)_1": [
+        "12405.png",
+        "12616.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_5": [],
+    "grasp(butter_cookie_82)_1": [
+        "18290.png",
+        "18501.png"
+    ],
+    "grasp(butter_cookie_83)_1": [
+        "18712.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_7": [],
+    "place_inside(butter_cookie_82, wicker_basket_91)_1": [
+        "19599.png",
+        "19810.png"
+    ],
+    "place_inside(butter_cookie_83, wicker_basket_89)_1": [
+        "19599.png",
+        "19810.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_6": [],
+    "grasp(swiss_cheese_79)_1": [
+        "13180.png",
+        "13391.png"
+    ],
+    "grasp(swiss_cheese_78)_1": [
+        "13669.png",
+        "13880.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_8": [],
+    "place_inside(swiss_cheese_78, wicker_basket_90)_1": [
+        "14309.png",
+        "14520.png"
+    ],
+    "place_inside(swiss_cheese_79, wicker_basket_92)_1": [
+        "14309.png",
+        "14520.png"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_7": [],
+    "grasp(swiss_cheese_80)_1": [
+        "20559.png",
+        "20770.png"
+    ],
+    "grasp(swiss_cheese_77)_1": [
+        "21759.png",
+        "21970.png"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_9": [],
+    "place_inside(swiss_cheese_80, wicker_basket_91)_1": [
+        "22666.png"
+    ],
+    "place_inside(swiss_cheese_77, wicker_basket_89)_1": [
+        "22666.png"
+    ]
+}

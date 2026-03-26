@@ -1,0 +1,78 @@
+{
+    "navigate_to(bottom_cabinet_no_top_gjeoer_0)_1": [
+        "00818.png"
+    ],
+    "open(bottom_cabinet_no_top_gjeoer_0)_1": [
+        "01029.png",
+        "01483.png"
+    ],
+    "grasp(tupperware_231)_1": [
+        "02269.png",
+        "02480.png"
+    ],
+    "close(bottom_cabinet_no_top_gjeoer_0)_1": [
+        "03236.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [
+        "04381.png"
+    ],
+    "place_ontop(tupperware_231, countertop_kelzer_0)_1": [
+        "04592.png"
+    ],
+    "grasp(apple_pie_234)_1": [
+        "05126.png"
+    ],
+    "place_inside(apple_pie_234, tupperware_231)_1": [
+        "05337.png"
+    ],
+    "navigate_to(bottom_cabinet_no_top_gjeoer_0)_2": [
+        "06285.png"
+    ],
+    "open(bottom_cabinet_no_top_gjeoer_0)_2": [
+        "06541.png",
+        "06824.png"
+    ],
+    "grasp(tupperware_230)_1": [
+        "07770.png",
+        "07981.png"
+    ],
+    "close(bottom_cabinet_no_top_gjeoer_0)_2": [
+        "08297.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(tupperware_230,countertop_kelzer_0)_1": [
+        "08938.png"
+    ],
+    "grasp(apple_pie_235)_1": [
+        "09933.png"
+    ],
+    "place_inside(apple_pie_235, tupperware_230)_1": [
+        "10144.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [
+        "10545.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "10756.png",
+        "11022.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_3": [],
+    "grasp(tupperware_230)_2": [
+        "12017.png"
+    ],
+    "grasp(tupperware_231)_2": [
+        "12228.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_2": [],
+    "place_inside(tupperware_230,fridge_dszchb_0)_1": [
+        "13261.png",
+        "13472.png"
+    ],
+    "place_inside(tupperware_231,fridge_dszchb_0)_1": [
+        "14203.png",
+        "14414.png"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "14885.png"
+    ]
+}

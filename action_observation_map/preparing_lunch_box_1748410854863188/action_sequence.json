@@ -1,0 +1,56 @@
+{
+    "navigate_to(countertop_kelker_0)_1": [
+        "00059.png"
+    ],
+    "grasp(packing_box_210)_1": [
+        "00616.png",
+        "00827.png"
+    ],
+    "place_ontop(packing_box_210,burner_mjvqii_0)_1": [
+        "01038.png"
+    ],
+    "navigate_to(chopping_board_211)_1": [],
+    "grasp(half_apple_213)_1": [
+        "01848.png"
+    ],
+    "place_inside(half_apple_213,packing_box_210)_1": [
+        "02059.png"
+    ],
+    "grasp(club_sandwich_209)_1": [
+        "02270.png"
+    ],
+    "place_inside(club_sandwich_209,packing_box_210)_1": [
+        "02481.png"
+    ],
+    "grasp(half_apple_212)_1": [
+        "02692.png"
+    ],
+    "place_inside(half_apple_212,packing_box_210)_1": [
+        "02903.png"
+    ],
+    "grasp(chocolate_chip_cookie_207)_1": [
+        "03160.png"
+    ],
+    "place_inside(chocolate_chip_cookie_207,packing_box_210)_1": [
+        "03371.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [
+        "03582.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "04796.png",
+        "05007.png",
+        "05218.png"
+    ],
+    "grasp(bottle_of_tea_208)_1": [
+        "05585.png",
+        "05796.png"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "06034.png"
+    ],
+    "navigate_to(countertop_kelker_0)_2": [],
+    "place_inside(bottle_of_tea_208,packing_box_210)_1": [
+        "06941.png"
+    ]
+}

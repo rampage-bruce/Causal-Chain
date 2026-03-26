@@ -1,0 +1,62 @@
+{
+    "navigate_to(sliding_door_tprpvb_10)_1": [],
+    "open(sliding_door_tprpvb_10)_1": [
+        "01138.png",
+        "01429.png",
+        "01640.png"
+    ],
+    "navigate_to(hamper_226)_1": [
+        "03496.png"
+    ],
+    "grasp(bottle_of_detergent_228)_1": [
+        "03707.png"
+    ],
+    "grasp(bottle_of_detergent_227)_1": [
+        "03918.png"
+    ],
+    "navigate_to(multi_station_furniture_sink_upwldu_0)_1": [],
+    "place_under(bottle_of_detergent_227,multi_station_furniture_sink_upwldu_0)_1": [
+        "05512.png"
+    ],
+    "place_under(bottle_of_detergent_228,multi_station_furniture_sink_upwldu_0)_1": [
+        "05844.png"
+    ],
+    "navigate_to(hamper_226)_2": [
+        "07631.png"
+    ],
+    "grasp(box_of_sanitary_napkins_224)_1": [
+        "07842.png"
+    ],
+    "navigate_to(hamper_225)_1": [
+        "08900.png"
+    ],
+    "grasp(soap_dispenser_223)_1": [
+        "09111.png"
+    ],
+    "navigate_to(multi_station_furniture_sink_upwldu_0)_2": [],
+    "place_ontop(soap_dispenser_223,multi_station_furniture_sink_upwldu_0)_1": [
+        "10744.png"
+    ],
+    "navigate_to(shelf_fjozhc_0)_1": [],
+    "place_ontop(box_of_sanitary_napkins_224,shelf_fjozhc_0)_1": [
+        "11082.png"
+    ],
+    "navigate_to(hamper_225)_2": [
+        "13376.png"
+    ],
+    "grasp(tube_of_toothpaste_222)_1": [
+        "13587.png"
+    ],
+    "grasp(toothbrush_221)_1": [
+        "14255.png",
+        "14466.png"
+    ],
+    "navigate_to(coffee_cup_220)_1": [],
+    "place_inside(toothbrush_221,coffee_cup_220)_1": [
+        "16076.png"
+    ],
+    "place_inside(tube_of_toothpaste_222,coffee_cup_220)_1": [
+        "16287.png",
+        "16498.png"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "navigate_to(countertop_kelzer_0)_1": [
+        "01300.png"
+    ],
+    "grasp(paper_coffee_filter_210)_1": [
+        "01511.png"
+    ],
+    "place_ontop(paper_coffee_filter_210, coffee_maker_212)_1": [
+        "02361.png"
+    ],
+    "navigate_to(shelf_pfusrd_1)_1": [
+        "02572.png"
+    ],
+    "grasp(bottle_of_coffee_211)_1": [
+        "03242.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [
+        "03453.png"
+    ],
+    "place_ontop(bottle_of_coffee_211, countertop_kelzer_0)_1": [
+        "03854.png",
+        "04065.png"
+    ],
+    "grasp(saucer_208)_1": [
+        "04694.png"
+    ],
+    "place_ontop(saucer_208, countertop_kelzer_0)_1": [
+        "04905.png",
+        "05116.png"
+    ],
+    "grasp(electric_kettle_207)_1": [
+        "05794.png"
+    ],
+    "place_ontop(electric_kettle_207, countertop_kelzer_0)_1": [
+        "06005.png",
+        "06260.png"
+    ],
+    "grasp(coffee_cup_209)_1": [
+        "07037.png",
+        "07248.png"
+    ],
+    "place_ontop(coffee_cup_209, saucer_208)_1": [
+        "07604.png",
+        "07815.png"
+    ]
+}

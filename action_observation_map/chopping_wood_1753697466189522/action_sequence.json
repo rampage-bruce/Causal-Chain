@@ -1,0 +1,80 @@
+{
+    "navigate_to(driveway_umalys_0)_1": [
+        "00059.png"
+    ],
+    "grasp(log_174)_1": [
+        "00934.png"
+    ],
+    "navigate_to(chopping_block_172)_1": [
+        "01145.png"
+    ],
+    "place_ontop(log_174,chopping_block_172)_1": [
+        "01864.png"
+    ],
+    "navigate_to(driveway_umalys_0)_2": [
+        "02075.png"
+    ],
+    "grasp(axe_173)_1": [
+        "02758.png"
+    ],
+    "navigate_to(chopping_block_172)_2": [
+        "02969.png"
+    ],
+    "slice(log_174,axe_173)_1": [
+        "03745.png",
+        "03956.png",
+        "04216.png"
+    ],
+    "navigate_to(driveway_umalys_0)_3": [
+        "05108.png"
+    ],
+    "grasp(log_177)_1": [
+        "05319.png"
+    ],
+    "navigate_to(chopping_block_172)_3": [],
+    "place_ontop(log_177,chopping_block_172)_1": [
+        "05847.png",
+        "06058.png"
+    ],
+    "slice(log_177,axe_173)_1": [
+        "06269.png"
+    ],
+    "navigate_to(driveway_umalys_0)_4": [
+        "06480.png"
+    ],
+    "grasp(log_176)_1": [
+        "07570.png"
+    ],
+    "navigate_to(chopping_block_172)_4": [
+        "07781.png"
+    ],
+    "place_ontop(log_176,chopping_block_172)_1": [
+        "08202.png",
+        "08413.png"
+    ],
+    "slice(log_176,axe_173)_1": [
+        "08624.png"
+    ],
+    "navigate_to(driveway_umalys_0)_5": [
+        "08835.png"
+    ],
+    "grasp(log_175)_1": [
+        "09403.png"
+    ],
+    "navigate_to(chopping_block_172)_5": [
+        "09614.png"
+    ],
+    "place_ontop(log_175,chopping_block_172)_1": [
+        "10460.png"
+    ],
+    "slice(log_175,axe_173)_1": [
+        "10671.png",
+        "10935.png"
+    ],
+    "navigate_to(driveway_umalys_0)_6": [
+        "11146.png"
+    ],
+    "place_ontop(axe_173,driveway_umalys_0)_1": [
+        "11357.png"
+    ]
+}

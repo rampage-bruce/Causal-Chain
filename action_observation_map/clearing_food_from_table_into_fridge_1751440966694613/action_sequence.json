@@ -1,0 +1,60 @@
+{
+    "navigate_to(bar_egwapq_0)_1": [
+        "00059.png"
+    ],
+    "grasp(tupperware_73)_1": [
+        "01098.png"
+    ],
+    "grasp(tupperware_74)_1": [
+        "01531.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [
+        "01742.png"
+    ],
+    "place_ontop(tupperware_74,breakfast_table_xftrki_0)_1": [
+        "02570.png"
+    ],
+    "place_ontop(tupperware_73,breakfast_table_xftrki_0)_1": [
+        "02781.png"
+    ],
+    "grasp(half_chicken_78)_1": [
+        "03725.png"
+    ],
+    "place_inside(half_chicken_78,tupperware_73)_1": [
+        "03936.png",
+        "04147.png"
+    ],
+    "grasp(half_apple_pie_77)_1": [
+        "06355.png",
+        "06566.png"
+    ],
+    "place_inside(half_apple_pie_77,tupperware_74)_1": [
+        "07984.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_1": [
+        "09070.png"
+    ],
+    "open(fridge_petcxr_0)_1": [
+        "09281.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_2": [
+        "10962.png"
+    ],
+    "grasp(tupperware_74)_2": [
+        "11173.png"
+    ],
+    "grasp(tupperware_73)_2": [],
+    "navigate_to(fridge_petcxr_0)_2": [],
+    "place_inside(tupperware_74,fridge_petcxr_0)_1": [
+        "12146.png",
+        "12357.png"
+    ],
+    "place_inside(tupperware_73,fridge_petcxr_0)_1": [
+        "12787.png"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "12998.png",
+        "13209.png",
+        "13420.png"
+    ]
+}

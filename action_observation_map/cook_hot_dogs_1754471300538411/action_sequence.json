@@ -1,0 +1,34 @@
+{
+    "navigate_to(microwave_abzvij_0)_1": [
+        "00059.png"
+    ],
+    "open(microwave_abzvij_0)_1": [],
+    "navigate_to(fridge_dszchb_0)_1": [
+        "01248.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "01785.png"
+    ],
+    "grasp(hotdog_207)_1": [
+        "02729.png",
+        "02940.png"
+    ],
+    "grasp(hotdog_208)_1": [
+        "03743.png"
+    ],
+    "navigate_to(microwave_abzvij_0)_2": [
+        "04760.png",
+        "06058.png"
+    ],
+    "place_inside(hotdog_208, microwave_abzvij_0)_1": [
+        "07247.png"
+    ],
+    "place_inside(hotdog_207, microwave_abzvij_0)_1": [
+        "08507.png",
+        "08718.png"
+    ],
+    "toggle_on(microwave_abzvij_0)_1": [
+        "09165.png",
+        "09381.png"
+    ]
+}

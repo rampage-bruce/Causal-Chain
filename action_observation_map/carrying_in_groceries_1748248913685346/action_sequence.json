@@ -1,0 +1,59 @@
+{
+    "navigate_to(car_ssxsje_0)_1": [
+        "00059.png"
+    ],
+    "grasp(paper_bag_81)_1": [
+        "01352.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [
+        "03371.png",
+        "05103.png",
+        "05314.png"
+    ],
+    "place_ontop(paper_bag_81, breakfast_table_xftrki_0)_1": [
+        "07132.png"
+    ],
+    "grasp(beefsteak_tomato_80)_1": [
+        "08084.png"
+    ],
+    "place_ontop(beefsteak_tomato_80, breakfast_table_xftrki_0)_1": [
+        "08295.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_1": [
+        "09105.png",
+        "09316.png"
+    ],
+    "open(fridge_petcxr_0)_1": [
+        "09670.png",
+        "09881.png",
+        "10092.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_2": [
+        "13046.png"
+    ],
+    "grasp(beefsteak_tomato_80)_2": [
+        "10438.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [
+        "10649.png"
+    ],
+    "place_inside(beefsteak_tomato_80, fridge_petcxr_0)_1": [
+        "11644.png",
+        "11855.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_3": [
+        "13046.png"
+    ],
+    "grasp(carton_of_milk_79)_1": [
+        "14703.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_3": [
+        "14914.png"
+    ],
+    "place_inside(carton_of_milk_79, fridge_petcxr_0)_1": [
+        "15427.png"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "17949.png"
+    ]
+}

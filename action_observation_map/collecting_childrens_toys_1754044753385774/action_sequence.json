@@ -1,0 +1,76 @@
+{
+    "navigate_to(floors_vmamhf_0)_1": [
+        "00059.png"
+    ],
+    "grasp(teddy_bear_267)_1": [
+        "01012.png",
+        "01223.png"
+    ],
+    "grasp(teddy_bear_266)_1": [
+        "01533.png",
+        "01744.png"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_1": [],
+    "place_inside(teddy_bear_267,bookcase_zfpyqe_1)_1": [
+        "02254.png"
+    ],
+    "place_inside(teddy_bear_266,bookcase_zfpyqe_1)_1": [
+        "02465.png"
+    ],
+    "navigate_to(bed_ivdnny_0)_1": [
+        "02676.png"
+    ],
+    "grasp(dice_269)_1": [
+        "05167.png",
+        "05378.png"
+    ],
+    "grasp(dice_268)_1": [],
+    "navigate_to(bookcase_zfpyqe_1)_2": [
+        "06739.png",
+        "06950.png"
+    ],
+    "place_inside(dice_269,bookcase_zfpyqe_1)_1": [
+        "07623.png"
+    ],
+    "place_inside(dice_268,bookcase_zfpyqe_1)_1": [
+        "07834.png"
+    ],
+    "navigate_to(bed_ivdnny_0)_2": [
+        "08045.png"
+    ],
+    "grasp(board_game_263)_1": [
+        "09947.png"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_3": [
+        "10158.png"
+    ],
+    "place_inside(board_game_263,bookcase_zfpyqe_1)_1": [
+        "10370.png"
+    ],
+    "navigate_to(desk_nbpuns_0)_1": [
+        "10581.png"
+    ],
+    "grasp(board_game_264)_1": [
+        "12605.png"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_4": [
+        "12816.png"
+    ],
+    "place_inside(board_game_264,bookcase_zfpyqe_1)_1": [
+        "13212.png"
+    ],
+    "navigate_to(desk_nbpuns_0)_2": [
+        "13423.png"
+    ],
+    "grasp(toy_train_265)_1": [
+        "17078.png"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_5": [
+        "17289.png"
+    ],
+    "place_inside(toy_train_265,bookcase_zfpyqe_1)_1": [
+        "18149.png",
+        "18395.png",
+        "18606.png"
+    ]
+}

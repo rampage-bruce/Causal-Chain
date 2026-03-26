@@ -1,0 +1,80 @@
+{
+    "navigate_to(fridge_dszchb_0)_1": [
+        "01172.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "01383.png",
+        "01724.png"
+    ],
+    "grasp(bell_pepper_214)_1": [
+        "02634.png"
+    ],
+    "grasp(bell_pepper_213)_1": [
+        "02845.png",
+        "03056.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [
+        "04056.png"
+    ],
+    "place_ontop(bell_pepper_214, cutting_board_210)_1": [
+        "04267.png"
+    ],
+    "place_ontop(bell_pepper_213, cutting_board_210)_1": [
+        "04478.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_2": [
+        "05776.png"
+    ],
+    "grasp(beet_211)_1": [
+        "05987.png"
+    ],
+    "grasp(beet_212)_1": [
+        "06524.png",
+        "06735.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(beet_211, cutting_board_209)_1": [
+        "07575.png"
+    ],
+    "place_ontop(beet_212, cutting_board_209)_1": [
+        "08129.png",
+        "08340.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_3": [],
+    "grasp(zucchini_208)_1": [
+        "09275.png"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "09486.png",
+        "09996.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_3": [],
+    "place_ontop(zucchini_208, cutting_board_209)_1": [
+        "10604.png"
+    ],
+    "grasp(parer_207)_1": [
+        "11048.png",
+        "11259.png"
+    ],
+    "slice(beet_212, parer_207, robot_r1)_1": [
+        "11470.png",
+        "11681.png"
+    ],
+    "slice(beet_211, parer_207, robot_r1)_1": [
+        "11892.png"
+    ],
+    "slice(zucchini_208, parer_207, robot_r1)_1": [
+        "12103.png",
+        "12314.png"
+    ],
+    "slice(bell_pepper_214, parer_207, robot_r1)_1": [
+        "13098.png",
+        "13309.png"
+    ],
+    "slice(bell_pepper_213, parer_207, robot_r1)_1": [
+        "13520.png"
+    ],
+    "place_ontop(parer_207, countertop_kelzer_0)_1": [
+        "13731.png"
+    ]
+}

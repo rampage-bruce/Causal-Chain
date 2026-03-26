@@ -1,0 +1,43 @@
+{
+    "navigate_to(bar_egwapq_0)_1": [
+        "00059.png"
+    ],
+    "grasp(cutting_board_76)_1": [
+        "02257.png"
+    ],
+    "place_nextto(cutting_board_76,parer_74)_1": [
+        "02468.png"
+    ],
+    "navigate_to(drop_in_sink_lkklqs_0)_1": [
+        "02679.png"
+    ],
+    "grasp(vidalia_onion_75)_1": [
+        "03374.png"
+    ],
+    "navigate_to(bar_egwapq_0)_2": [
+        "03585.png"
+    ],
+    "place_ontop(vidalia_onion_75,cutting_board_76)_1": [
+        "03796.png"
+    ],
+    "grasp(parer_74)_1": [
+        "04376.png"
+    ],
+    "slice(vidalia_onion_75,parer_74)_1": [
+        "04587.png",
+        "04802.png"
+    ],
+    "place_ontop(parer_74,bar_egwapq_0)_1": [
+        "05013.png",
+        "05224.png"
+    ],
+    "grasp(cutting_board_76)_2": [
+        "05435.png"
+    ],
+    "place_inside(vidalia_onion_75,bowl_73)_1": [
+        "05646.png"
+    ],
+    "place_ontop(cutting_board_76,drop_in_sink_lkklqs_0)_1": [
+        "05857.png"
+    ]
+}

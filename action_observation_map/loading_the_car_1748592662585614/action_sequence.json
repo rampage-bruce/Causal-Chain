@@ -1,0 +1,32 @@
+{
+    "navigate_to(coffee_table_koagbh_0)_1": [
+        "02430.png"
+    ],
+    "grasp(tennis_racket_80)_1": [
+        "04497.png",
+        "04708.png"
+    ],
+    "grasp(digital_camera_79)_1": [
+        "05014.png"
+    ],
+    "navigate_to(toy_box_81)_1": [
+        "05225.png"
+    ],
+    "place_inside(digital_camera_79,toy_box_81)_1": [
+        "05463.png"
+    ],
+    "grasp(toy_box_81)_1": [
+        "05674.png"
+    ],
+    "navigate_to(car_ssxsje_0)_1": [
+        "05885.png",
+        "07776.png",
+        "07987.png"
+    ],
+    "place_inside(toy_box_81,car_ssxsje_0)_1": [
+        "08587.png"
+    ],
+    "place_inside(tennis_racket_80,car_ssxsje_0)_1": [
+        "08798.png"
+    ]
+}

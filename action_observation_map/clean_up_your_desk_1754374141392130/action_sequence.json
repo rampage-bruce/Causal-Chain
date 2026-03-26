@@ -1,0 +1,112 @@
+{
+    "navigate_to(eames_chair_hndxiw_0)_1": [
+        "00059.png"
+    ],
+    "grasp(folder_231)_1": [
+        "01914.png"
+    ],
+    "navigate_to(bookcase_jaysra_0)_1": [],
+    "place_inside(folder_231,bookcase_jaysra_0)_1": [
+        "02837.png",
+        "03061.png"
+    ],
+    "navigate_to(eames_chair_hndxiw_0)_2": [],
+    "grasp(eames_chair_hndxiw_0)_1": [
+        "03978.png",
+        "04189.png"
+    ],
+    "place_under(eames_chair_hndxiw_0,desk_bhkhxo_0)_1": [
+        "04830.png"
+    ],
+    "navigate_to(desk_bhkhxo_0)_1": [
+        "05041.png",
+        "05749.png"
+    ],
+    "grasp(pencil_case_224)_1": [
+        "06530.png",
+        "06741.png"
+    ],
+    "grasp(pen_228)_1": [
+        "07374.png"
+    ],
+    "place_inside(pen_228,pencil_case_224)_1": [
+        "07585.png",
+        "07878.png"
+    ],
+    "grasp(pencil_230)_1": [
+        "08089.png",
+        "08573.png"
+    ],
+    "place_inside(pencil_230,pencil_case_224)_1": [
+        "08784.png",
+        "08995.png"
+    ],
+    "grasp(pen_229)_1": [
+        "09469.png",
+        "09680.png"
+    ],
+    "place_inside(pen_229,pencil_case_224)_1": [
+        "09980.png"
+    ],
+    "place_ontop(pencil_case_224,desk_bhkhxo_0)_1": [
+        "10411.png"
+    ],
+    "navigate_to(desk_bhkhxo_0)_2": [
+        "10622.png"
+    ],
+    "grasp(paperback_book_226)_1": [
+        "11574.png"
+    ],
+    "navigate_to(bookcase_jaysra_0)_2": [
+        "11785.png"
+    ],
+    "place_inside(paperback_book_226,bookcase_jaysra_0)_1": [
+        "12070.png"
+    ],
+    "navigate_to(desk_bhkhxo_0)_3": [
+        "12281.png"
+    ],
+    "grasp(paperback_book_225)_1": [
+        "13800.png"
+    ],
+    "navigate_to(bookcase_jaysra_0)_3": [
+        "14011.png"
+    ],
+    "place_inside(paperback_book_225,bookcase_jaysra_0)_1": [
+        "14286.png"
+    ],
+    "navigate_to(desk_bhkhxo_0)_4": [
+        "14497.png"
+    ],
+    "grasp(folder_232)_1": [
+        "15170.png",
+        "15749.png"
+    ],
+    "navigate_to(bookcase_jaysra_0)_4": [
+        "15960.png"
+    ],
+    "place_inside(folder_232,bookcase_jaysra_0)_1": [
+        "16171.png"
+    ],
+    "navigate_to(bed_rrcvaq_1)_1": [],
+    "grasp(laptop_233)_1": [
+        "17674.png"
+    ],
+    "navigate_to(desk_bhkhxo_0)_5": [
+        "17885.png"
+    ],
+    "place_ontop(laptop_233,desk_bhkhxo_0)_1": [
+        "18712.png",
+        "18923.png"
+    ],
+    "navigate_to(bookcase_jaysra_0)_5": [
+        "19825.png"
+    ],
+    "grasp(stapler_227)_1": [],
+    "navigate_to(desk_bhkhxo_0)_6": [
+        "20036.png"
+    ],
+    "place_ontop(stapler_227,desk_bhkhxo_0)_1": [
+        "20312.png"
+    ]
+}

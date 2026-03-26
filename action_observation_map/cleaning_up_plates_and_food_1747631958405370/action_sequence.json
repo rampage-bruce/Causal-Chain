@@ -1,0 +1,49 @@
+{
+    "navigate_to(fridge_petcxr_0)_1": [
+        "00059.png"
+    ],
+    "open(fridge_petcxr_0)_1": [
+        "00584.png",
+        "00795.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [
+        "01243.png"
+    ],
+    "grasp(plate_93)_1": [
+        "02442.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [],
+    "place_inside(plate_93, fridge_petcxr_0)_1": [
+        "03305.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_2": [
+        "03516.png",
+        "04505.png"
+    ],
+    "grasp(plate_94)_1": [
+        "05383.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_3": [],
+    "place_inside(plate_94, fridge_petcxr_0)_1": [
+        "06485.png"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "07999.png"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_3": [],
+    "grasp(bowl_92)_1": [
+        "08519.png",
+        "08730.png"
+    ],
+    "grasp(bowl_91)_1": [
+        "10285.png",
+        "10496.png"
+    ],
+    "navigate_to(drop_in_sink_lkklqs_0)_1": [],
+    "place_inside(bowl_91, drop_in_sink_lkklqs_0)_1": [
+        "11421.png"
+    ],
+    "place_inside(bowl_92, drop_in_sink_lkklqs_0)_1": [
+        "11632.png"
+    ]
+}

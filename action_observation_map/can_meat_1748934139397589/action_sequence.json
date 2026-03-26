@@ -1,0 +1,69 @@
+{
+    "navigate_to(top_cabinet_lkxmne_2)_1": [],
+    "open(top_cabinet_lkxmne_2)_1": [
+        "00793.png",
+        "01004.png"
+    ],
+    "grasp(hinged_jar_236)_1": [
+        "01296.png",
+        "02543.png",
+        "02754.png"
+    ],
+    "navigate_to(bar_udatjt_0)_1": [],
+    "open(hinged_jar_236)_1": [
+        "03510.png"
+    ],
+    "grasp(bratwurst_233)_1": [
+        "03838.png"
+    ],
+    "place_inside(bratwurst_233, hinged_jar_236)_1": [
+        "04049.png"
+    ],
+    "grasp(bratwurst_231)_1": [
+        "04260.png"
+    ],
+    "place_inside(bratwurst_231, hinged_jar_236)_1": [
+        "04471.png"
+    ],
+    "close(hinged_jar_236)_1": [
+        "04682.png"
+    ],
+    "navigate_to(top_cabinet_lkxmne_2)_2": [
+        "05244.png"
+    ],
+    "place_inside(hinged_jar_236, top_cabinet_lkxmne_2)_1": [
+        "05455.png"
+    ],
+    "grasp(hinged_jar_235)_1": [
+        "06101.png",
+        "06312.png"
+    ],
+    "navigate_to(bar_udatjt_0)_2": [],
+    "open(hinged_jar_235)_1": [
+        "07625.png"
+    ],
+    "grasp(bratwurst_230)_1": [
+        "08123.png"
+    ],
+    "place_inside(bratwurst_230, hinged_jar_235)_1": [
+        "08334.png"
+    ],
+    "grasp(bratwurst_232)_1": [
+        "08545.png"
+    ],
+    "place_inside(bratwurst_232, hinged_jar_235)_1": [
+        "08756.png"
+    ],
+    "close(hinged_jar_235)_1": [
+        "08967.png"
+    ],
+    "navigate_to(top_cabinet_lkxmne_2)_3": [
+        "09728.png"
+    ],
+    "place_inside(hinged_jar_235, top_cabinet_lkxmne_2)_1": [
+        "09939.png"
+    ],
+    "close(top_cabinet_lkxmne_2)_1": [
+        "10711.png"
+    ]
+}

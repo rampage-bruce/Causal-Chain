@@ -1,0 +1,42 @@
+{
+    "navigate_to(countertop_fjkase_0)_1": [
+        "00059.png"
+    ],
+    "open(toolbox_191)_1": [
+        "01391.png"
+    ],
+    "grasp(drill_193)_1": [
+        "01602.png"
+    ],
+    "place_inside(drill_193, toolbox_191)_1": [
+        "02586.png"
+    ],
+    "grasp(screwdriver_188)_1": [
+        "03233.png",
+        "03444.png"
+    ],
+    "place_inside(screwdriver_188, toolbox_191)_1": [
+        "03674.png",
+        "03885.png"
+    ],
+    "grasp(allen_wrench_189)_1": [
+        "04856.png",
+        "05067.png"
+    ],
+    "place_inside(allen_wrench_189, toolbox_191)_1": [],
+    "grasp(flashlight_190)_1": [
+        "05278.png"
+    ],
+    "place_inside(flashlight_190, toolbox_191)_1": [
+        "05489.png"
+    ],
+    "grasp(plier_192)_1": [
+        "06467.png"
+    ],
+    "place_inside(plier_192, toolbox_191)_1": [
+        "06678.png"
+    ],
+    "close(toolbox_191)_1": [
+        "07482.png"
+    ]
+}

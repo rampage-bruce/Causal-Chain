@@ -1,0 +1,72 @@
+{
+    "navigate_to(bed_rrcvaq_0)_1": [
+        "00059.png"
+    ],
+    "grasp(board_game_229)_1": [
+        "01936.png"
+    ],
+    "navigate_to(toy_box_224)_1": [
+        "02147.png"
+    ],
+    "place_inside(board_game_229, toy_box_224)_1": [
+        "03076.png",
+        "03287.png",
+        "03498.png"
+    ],
+    "navigate_to(bed_rrcvaq_0)_2": [],
+    "grasp(board_game_230)_1": [
+        "05638.png"
+    ],
+    "navigate_to(toy_box_224)_2": [
+        "05849.png",
+        "06941.png"
+    ],
+    "place_inside(board_game_230, toy_box_224)_1": [
+        "07152.png",
+        "07600.png"
+    ],
+    "navigate_to(desk_xhjsub_0)_1": [],
+    "grasp(tennis_ball_225)_1": [
+        "08132.png"
+    ],
+    "navigate_to(toy_box_224)_3": [],
+    "place_inside(tennis_ball_225, toy_box_224)_1": [
+        "08343.png",
+        "08554.png"
+    ],
+    "navigate_to(desk_xhjsub_0)_2": [],
+    "grasp(board_game_228)_1": [
+        "10773.png"
+    ],
+    "navigate_to(toy_box_224)_4": [
+        "10984.png"
+    ],
+    "place_inside(board_game_228, toy_box_224)_1": [
+        "11688.png"
+    ],
+    "navigate_to(desk_xhjsub_0)_3": [
+        "11899.png"
+    ],
+    "grasp(jigsaw_puzzle_227)_1": [
+        "12902.png"
+    ],
+    "navigate_to(toy_box_224)_5": [],
+    "place_inside(jigsaw_puzzle_227, toy_box_224)_1": [
+        "13113.png",
+        "13555.png"
+    ],
+    "navigate_to(desk_xhjsub_0)_4": [
+        "13766.png"
+    ],
+    "grasp(jigsaw_puzzle_226)_1": [
+        "16016.png"
+    ],
+    "navigate_to(toy_box_224)_6": [
+        "16227.png"
+    ],
+    "place_inside(jigsaw_puzzle_226, toy_box_224)_1": [
+        "16883.png",
+        "17094.png",
+        "17348.png"
+    ]
+}

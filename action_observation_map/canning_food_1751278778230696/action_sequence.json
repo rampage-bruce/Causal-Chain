@@ -1,0 +1,141 @@
+{
+    "navigate_to(cutting_board_208)_1": [
+        "00848.png"
+    ],
+    "grasp(carving_knife_207)_1": [
+        "01059.png",
+        "01365.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [],
+    "grasp(cutting_board_208)_1": [
+        "01576.png"
+    ],
+    "navigate_to(drop_in_sink_awvzkn_0)_1": [],
+    "place_ontop(cutting_board_208, drop_in_sink_awvzkn_0)_1": [
+        "02040.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(carving_knife_207, countertop_kelzer_0)_1": [
+        "02403.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [
+        "03534.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "03745.png",
+        "04554.png"
+    ],
+    "grasp(steak_212)_1": [
+        "05982.png",
+        "06193.png"
+    ],
+    "grasp(pineapple_211)_1": [
+        "07568.png",
+        "07898.png"
+    ],
+    "close(fridge_dszchb_0)_1": [],
+    "navigate_to(countertop_kelzer_0)_3": [
+        "09384.png"
+    ],
+    "place_ontop(steak_212, cutting_board_208)_1": [
+        "10683.png"
+    ],
+    "place_ontop(pineapple_211, cutting_board_208)_1": [
+        "10894.png"
+    ],
+    "grasp(carving_knife_207)_2": [
+        "11460.png"
+    ],
+    "slice-carvingknife(steak_212, carving_knife_207, countertop_kelzer_0)_1": [
+        "11704.png",
+        "11915.png"
+    ],
+    "place_ontop(carving_knife_207, countertop_kelzer_0)_2": [
+        "12258.png"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_1": [
+        "12469.png",
+        "13283.png"
+    ],
+    "open(bottom_cabinet_fancyy_0)_1": [
+        "13494.png",
+        "13946.png"
+    ],
+    "grasp(bowl_209)_1": [
+        "14850.png"
+    ],
+    "grasp(bowl_210)_1": [
+        "15061.png",
+        "15662.png",
+        "15873.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_4": [
+        "17406.png"
+    ],
+    "place_ontop(bowl_209, countertop_kelzer_0)_1": [
+        "19197.png"
+    ],
+    "place_ontop(bowl_210, countertop_kelzer_0)_1": [
+        "19443.png"
+    ],
+    "grasp(cutting_board_208)_2": [
+        "19654.png",
+        "20266.png"
+    ],
+    "place_inside(steak_212,bowl_209)_1": [
+        "20477.png",
+        "20788.png",
+        "20999.png"
+    ],
+    "place_ontop(cutting_board_208, drop_in_sink_awvzkn_0)_2": [
+        "21210.png"
+    ],
+    "grasp(bowl_209)_2": [
+        "21670.png",
+        "21881.png"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_2": [
+        "23410.png"
+    ],
+    "open(bottom_cabinet_fancyy_0)_2": [
+        "23621.png",
+        "24158.png"
+    ],
+    "place_inside(bowl_209, bottom_cabinet_fancyy_0)_1": [
+        "25506.png",
+        "25717.png"
+    ],
+    "navigate_to(countertop_kelzer_0)_5": [
+        "27069.png"
+    ],
+    "slice-carvingknife(pineapple_211, carving_knife_207, countertop_kelzer_0)_1": [
+        "28330.png",
+        "28541.png",
+        "28857.png",
+        "29068.png",
+        "29279.png"
+    ],
+    "place_ontop(carving_knife_207, countertop_kelzer_0)_3": [
+        "29490.png"
+    ],
+    "grasp(cutting_board_208)_3": [
+        "30685.png"
+    ],
+    "place_inside(pineapple_211,bowl_210)_1": [
+        "30896.png",
+        "31107.png",
+        "31341.png"
+    ],
+    "place_ontop(cutting_board_208, drop_in_sink_awvzkn_0)_3": [
+        "31620.png"
+    ],
+    "grasp(bowl_210)_2": [
+        "36035.png",
+        "36246.png"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_3": [],
+    "place_inside(bowl_210, bottom_cabinet_fancyy_0)_1": [
+        "37771.png",
+        "37982.png"
+    ]
+}

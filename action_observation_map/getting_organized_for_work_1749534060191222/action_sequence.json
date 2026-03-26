@@ -1,0 +1,21 @@
+{
+    "navigate_to(desk_uqcmzf_0)_1": [],
+    "grasp(monitor_86)": [],
+    "place_ontop(desk_uqcmzf_0, monitor_86)_1": [],
+    "grasp(keyboard_91)_1": [],
+    "place_nextto(keyboard_91, monitor_86)_1": [],
+    "grasp(mouse_92)_1": [],
+    "place_nextto(mouse_92, keyboard_91)_1": [],
+    "navigate_to(swivel_chair_iiihwn_0)_1": [],
+    "grasp(pen_89)_1": [],
+    "navigate_to(desk_uqcmzf_0)_2": [],
+    "place_ontop(pen_89, desk_uqcmzf_0)_1": [],
+    "navigate_to(swivel_chair_iiihwn_0)_2": [],
+    "grasp(folder_88)_1": [],
+    "navigate_to(desk_uqcmzf_0)_3": [],
+    "place_ontop(folder_88, desk_uqcmzf_0)_1": [],
+    "grasp(notebook_90)_1": [],
+    "place_ontop(notebook_90, folder_88)_1": [],
+    "grasp(pen_89)_2": [],
+    "place_ontop(pen_89, notebook_90)_1": []
+}

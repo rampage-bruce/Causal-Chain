@@ -1,0 +1,79 @@
+{
+    "navigate_to(fridge_dszchb_0)_1": [
+        "00059.png",
+        "00703.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "00914.png",
+        "01423.png"
+    ],
+    "grasp(head_cabbage_212)_1": [
+        "02798.png"
+    ],
+    "grasp(chili_211)_1": [
+        "03009.png"
+    ],
+    "close(fridge_dszchb_0)_1": [],
+    "navigate_to(countertop_kelker_0)_1": [
+        "04083.png"
+    ],
+    "place_ontop(chili_211,plate_207)_1": [
+        "05071.png"
+    ],
+    "place_ontop(head_cabbage_212, cutting_board_210)_1": [
+        "05531.png"
+    ],
+    "grasp(frying_pan_208)_1": [
+        "06263.png",
+        "06474.png"
+    ],
+    "place_ontop(frying_pan_208,burner_mjvqii_0)_1": [
+        "06787.png"
+    ],
+    "grasp(carving_knife_209)_1": [
+        "07623.png"
+    ],
+    "slice-carvingknife(head_cabbage_212, carving_knife_209)_1": [
+        "08537.png"
+    ],
+    "place_ontop(carving_knife_209,countertop_kelker_0)_1": [
+        "08748.png"
+    ],
+    "grasp(cutting_board_210)_1": [
+        "09700.png"
+    ],
+    "place_inside(head_cabbage_212,frying_pan_208)_1": [
+        "09911.png",
+        "10122.png",
+        "10446.png"
+    ],
+    "place_ontop(cutting_board_210,countertop_kelker_0)_1": [],
+    "grasp(chili_211)_2": [
+        "11254.png"
+    ],
+    "place_ontop(chili_211,cutting_board_210)": [
+        "11515.png"
+    ],
+    "grasp(carving_knife_209)_2": [
+        "11937.png"
+    ],
+    "slice-carvingknife(chili_211, carving_knife_209)_1": [
+        "12174.png",
+        "12385.png"
+    ],
+    "place_ontop(carving_knife_209,countertop_kelker_0)_2": [
+        "12596.png"
+    ],
+    "grasp(cutting_board_210)_2": [
+        "12920.png"
+    ],
+    "place_inside(chili_211,frying_pan_208)_1": [
+        "13175.png"
+    ],
+    "place_ontop(cutting_board_210,countertop_kelker_0)_2": [
+        "13386.png"
+    ],
+    "toggle_on(burner_mjvqii_0)_1": [
+        "13831.png"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "navigate_to(fridge_dszchb_0)_1": [
+        "01537.png"
+    ],
+    "open(fridge_dszchb_0)_1": [
+        "01781.png",
+        "02430.png"
+    ],
+    "grasp(beer_bottle_267)_1": [
+        "03773.png",
+        "03984.png"
+    ],
+    "grasp(beer_bottle_268)_1": [
+        "04511.png",
+        "04915.png",
+        "05126.png"
+    ],
+    "navigate_to(coffee_table_rlsebe_0)_1": [
+        "07705.png"
+    ],
+    "place_ontop(beer_bottle_268, coffee_table_rlsebe_0)_1": [
+        "07916.png"
+    ],
+    "place_ontop(beer_bottle_267, coffee_table_rlsebe_0)_1": [
+        "08348.png",
+        "08565.png"
+    ],
+    "navigate_to(fridge_dszchb_0)_2": [],
+    "close(fridge_dszchb_0)_1": [
+        "11722.png"
+    ]
+}

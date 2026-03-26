@@ -1,0 +1,79 @@
+{
+    "navigate_to(bar_egwapq_0)_1": [
+        "00059.png"
+    ],
+    "grasp(carving_knife_77)_1": [
+        "02653.png"
+    ],
+    "navigate_to(chopping_board_78)_1": [
+        "02864.png"
+    ],
+    "slice-carvingknife(vidalia_onion_80,carving_knife_77,chopping_board_78)_1": [
+        "03169.png"
+    ],
+    "slice-carvingknife(mushroom_81,carving_knife_77,chopping_board_78)_1": [
+        "03380.png",
+        "03591.png"
+    ],
+    "place_ontop(carving_knife_77,bar_egwapq_0)_1": [
+        "04233.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_1": [],
+    "open(fridge_petcxr_0)_1": [],
+    "grasp(tupperware_75)_1": [
+        "04949.png",
+        "05160.png"
+    ],
+    "navigate_to(bar_egwapq_0)_2": [
+        "05371.png"
+    ],
+    "place_ontop(tupperware_75,bar_egwapq_0)_1": [
+        "05582.png"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [
+        "07453.png"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "07664.png"
+    ],
+    "navigate_to(baking_sheet_79)_1": [
+        "08056.png"
+    ],
+    "grasp(half_mushroom_81_0)_1": [
+        "08689.png"
+    ],
+    "place_ontop(half_mushroom_81_0,pizza_dough_87)_1": [
+        "08900.png"
+    ],
+    "grasp(pepperoni_83)_1": [],
+    "place_ontop(pepperoni_83,pizza_dough_87)_1": [],
+    "grasp(tupperware_75)_2": [
+        "09322.png"
+    ],
+    "place_ontop(grated_cheese,pizza_dough_87)_1": [
+        "09533.png"
+    ],
+    "place_ontop(tupperware_75,bar_egwapq_0)_2": [
+        "10166.png"
+    ],
+    "navigate_to(oven_ffitak_0)_1": [
+        "10377.png"
+    ],
+    "open(oven_ffitak_0)_1": [
+        "11393.png"
+    ],
+    "navigate_to(baking_sheet_79)_2": [],
+    "grasp(baking_sheet_79)_1": [
+        "11891.png"
+    ],
+    "navigate_to(oven_ffitak_0)_2": [
+        "12102.png"
+    ],
+    "place_inside(baking_sheet_79,oven_ffitak_0)_1": [
+        "12313.png"
+    ],
+    "close(oven_ffitak_0)_1toggle_on(oven_ffitak_0)_1": [
+        "12735.png",
+        "13047.png"
+    ]
+}
