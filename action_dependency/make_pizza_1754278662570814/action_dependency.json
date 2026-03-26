@@ -1,0 +1,82 @@
+{
+    "navigate_to(bar_egwapq_0)_1": [],
+    "grasp(carving_knife_77)_1": [
+        "navigate_to(bar_egwapq_0)_1"
+    ],
+    "navigate_to(chopping_board_78)_1": [],
+    "slice-carvingknife(vidalia_onion_80,carving_knife_77,chopping_board_78)_1": [
+        "grasp(carving_knife_77)_1",
+        "navigate_to(chopping_board_78)_1"
+    ],
+    "slice-carvingknife(mushroom_81,carving_knife_77,chopping_board_78)_1": [
+        "grasp(carving_knife_77)_1",
+        "navigate_to(chopping_board_78)_1"
+    ],
+    "place_ontop(carving_knife_77,bar_egwapq_0)_1": [
+        "grasp(carving_knife_77)_1",
+        "navigate_to(bar_egwapq_0)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_1": [],
+    "open(fridge_petcxr_0)_1": [
+        "navigate_to(fridge_petcxr_0)_1"
+    ],
+    "grasp(tupperware_75)_1": [
+        "open(fridge_petcxr_0)_1"
+    ],
+    "navigate_to(bar_egwapq_0)_2": [],
+    "place_ontop(tupperware_75,bar_egwapq_0)_1": [
+        "grasp(tupperware_75)_1",
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [],
+    "close(fridge_petcxr_0)_1": [
+        "navigate_to(fridge_petcxr_0)_2",
+        "open(fridge_petcxr_0)_1"
+    ],
+    "navigate_to(baking_sheet_79)_1": [],
+    "grasp(half_mushroom_81_0)_1": [
+        "slice-carvingknife(mushroom_81,carving_knife_77,chopping_board_78)_1",
+        "navigate_to(baking_sheet_79)_1"
+    ],
+    "place_ontop(half_mushroom_81_0,pizza_dough_87)_1": [
+        "grasp(half_mushroom_81_0)_1",
+        "navigate_to(baking_sheet_79)_1"
+    ],
+    "grasp(pepperoni_83)_1": [
+        "navigate_to(baking_sheet_79)_1"
+    ],
+    "place_ontop(pepperoni_83,pizza_dough_87)_1": [
+        "grasp(pepperoni_83)_1",
+        "navigate_to(baking_sheet_79)_1"
+    ],
+    "grasp(tupperware_75)_2": [
+        "place_ontop(tupperware_75,bar_egwapq_0)_1",
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "place_ontop(grated_cheese,pizza_dough_87)_1": [
+        "grasp(tupperware_75)_2",
+        "navigate_to(baking_sheet_79)_1"
+    ],
+    "place_ontop(tupperware_75,bar_egwapq_0)_2": [
+        "grasp(tupperware_75)_2",
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "navigate_to(oven_ffitak_0)_1": [],
+    "open(oven_ffitak_0)_1": [
+        "navigate_to(oven_ffitak_0)_1"
+    ],
+    "navigate_to(baking_sheet_79)_2": [],
+    "grasp(baking_sheet_79)_1": [
+        "navigate_to(baking_sheet_79)_2"
+    ],
+    "navigate_to(oven_ffitak_0)_2": [],
+    "place_inside(baking_sheet_79,oven_ffitak_0)_1": [
+        "grasp(baking_sheet_79)_1",
+        "navigate_to(oven_ffitak_0)_2",
+        "open(oven_ffitak_0)_1"
+    ],
+    "close(oven_ffitak_0)_1toggle_on(oven_ffitak_0)_1": [
+        "place_inside(baking_sheet_79,oven_ffitak_0)_1",
+        "open(oven_ffitak_0)_1"
+    ]
+}

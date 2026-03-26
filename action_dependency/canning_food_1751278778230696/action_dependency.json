@@ -1,0 +1,124 @@
+{
+    "navigate_to(cutting_board_208)_1": [],
+    "grasp(carving_knife_207)_1": [
+        "navigate_to(cutting_board_208)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [],
+    "grasp(cutting_board_208)_1": [
+        "navigate_to(countertop_kelzer_0)_1",
+        "grasp(carving_knife_207)_1"
+    ],
+    "navigate_to(drop_in_sink_awvzkn_0)_1": [],
+    "place_ontop(cutting_board_208, drop_in_sink_awvzkn_0)_1": [
+        "grasp(cutting_board_208)_1",
+        "navigate_to(drop_in_sink_awvzkn_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(carving_knife_207, countertop_kelzer_0)_1": [
+        "grasp(carving_knife_207)_1",
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(steak_212)_1": [
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(pineapple_211)_1": [
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_3": [],
+    "place_ontop(steak_212, cutting_board_208)_1": [
+        "grasp(steak_212)_1",
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "place_ontop(pineapple_211, cutting_board_208)_1": [
+        "grasp(pineapple_211)_1",
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "grasp(carving_knife_207)_2": [
+        "place_ontop(carving_knife_207, countertop_kelzer_0)_1",
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "slice-carvingknife(steak_212, carving_knife_207, countertop_kelzer_0)_1": [
+        "place_ontop(steak_212, cutting_board_208)_1",
+        "grasp(carving_knife_207)_2"
+    ],
+    "place_ontop(carving_knife_207, countertop_kelzer_0)_2": [
+        "slice-carvingknife(steak_212, carving_knife_207, countertop_kelzer_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_1": [],
+    "open(bottom_cabinet_fancyy_0)_1": [
+        "navigate_to(bottom_cabinet_fancyy_0)_1"
+    ],
+    "grasp(bowl_209)_1": [
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "grasp(bowl_210)_1": [
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_4": [],
+    "place_ontop(bowl_209, countertop_kelzer_0)_1": [
+        "grasp(bowl_209)_1",
+        "navigate_to(countertop_kelzer_0)_4"
+    ],
+    "place_ontop(bowl_210, countertop_kelzer_0)_1": [
+        "grasp(bowl_210)_1",
+        "navigate_to(countertop_kelzer_0)_4"
+    ],
+    "grasp(cutting_board_208)_2": [
+        "navigate_to(countertop_kelzer_0)_4"
+    ],
+    "place_inside(steak_212,bowl_209)_1": [
+        "grasp(cutting_board_208)_2",
+        "place_ontop(bowl_209, countertop_kelzer_0)_1"
+    ],
+    "place_ontop(cutting_board_208, drop_in_sink_awvzkn_0)_2": [
+        "grasp(cutting_board_208)_2"
+    ],
+    "grasp(bowl_209)_2": [
+        "place_ontop(bowl_209, countertop_kelzer_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_2": [],
+    "open(bottom_cabinet_fancyy_0)_2": [
+        "navigate_to(bottom_cabinet_fancyy_0)_2"
+    ],
+    "place_inside(bowl_209, bottom_cabinet_fancyy_0)_1": [
+        "grasp(bowl_209)_2",
+        "open(bottom_cabinet_fancyy_0)_2"
+    ],
+    "navigate_to(countertop_kelzer_0)_5": [],
+    "slice-carvingknife(pineapple_211, carving_knife_207, countertop_kelzer_0)_1": [
+        "place_ontop(pineapple_211, cutting_board_208)_1",
+        "place_ontop(carving_knife_207, countertop_kelzer_0)_2",
+        "navigate_to(countertop_kelzer_0)_5"
+    ],
+    "place_ontop(carving_knife_207, countertop_kelzer_0)_3": [
+        "slice-carvingknife(pineapple_211, carving_knife_207, countertop_kelzer_0)_1"
+    ],
+    "grasp(cutting_board_208)_3": [
+        "navigate_to(countertop_kelzer_0)_5"
+    ],
+    "place_inside(pineapple_211,bowl_210)_1": [
+        "grasp(cutting_board_208)_3",
+        "place_ontop(bowl_210, countertop_kelzer_0)_1"
+    ],
+    "place_ontop(cutting_board_208, drop_in_sink_awvzkn_0)_3": [
+        "grasp(cutting_board_208)_3"
+    ],
+    "grasp(bowl_210)_2": [
+        "place_ontop(bowl_210, countertop_kelzer_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_3": [],
+    "place_inside(bowl_210, bottom_cabinet_fancyy_0)_1": [
+        "grasp(bowl_210)_2",
+        "open(bottom_cabinet_fancyy_0)_2",
+        "navigate_to(bottom_cabinet_fancyy_0)_3"
+    ]
+}

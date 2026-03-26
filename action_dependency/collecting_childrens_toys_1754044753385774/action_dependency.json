@@ -1,0 +1,61 @@
+{
+    "navigate_to(floors_vmamhf_0)_1": [],
+    "grasp(teddy_bear_267)_1": [
+        "navigate_to(floors_vmamhf_0)_1"
+    ],
+    "grasp(teddy_bear_266)_1": [
+        "navigate_to(floors_vmamhf_0)_1"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_1": [],
+    "place_inside(teddy_bear_267,bookcase_zfpyqe_1)_1": [
+        "grasp(teddy_bear_267)_1",
+        "navigate_to(bookcase_zfpyqe_1)_1"
+    ],
+    "place_inside(teddy_bear_266,bookcase_zfpyqe_1)_1": [
+        "grasp(teddy_bear_266)_1",
+        "navigate_to(bookcase_zfpyqe_1)_1"
+    ],
+    "navigate_to(bed_ivdnny_0)_1": [],
+    "grasp(dice_269)_1": [
+        "navigate_to(bed_ivdnny_0)_1"
+    ],
+    "grasp(dice_268)_1": [
+        "navigate_to(bed_ivdnny_0)_1"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_2": [],
+    "place_inside(dice_269,bookcase_zfpyqe_1)_1": [
+        "grasp(dice_269)_1",
+        "navigate_to(bookcase_zfpyqe_1)_2"
+    ],
+    "place_inside(dice_268,bookcase_zfpyqe_1)_1": [
+        "grasp(dice_268)_1",
+        "navigate_to(bookcase_zfpyqe_1)_2"
+    ],
+    "navigate_to(bed_ivdnny_0)_2": [],
+    "grasp(board_game_263)_1": [
+        "navigate_to(bed_ivdnny_0)_2"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_3": [],
+    "place_inside(board_game_263,bookcase_zfpyqe_1)_1": [
+        "grasp(board_game_263)_1",
+        "navigate_to(bookcase_zfpyqe_1)_3"
+    ],
+    "navigate_to(desk_nbpuns_0)_1": [],
+    "grasp(board_game_264)_1": [
+        "navigate_to(desk_nbpuns_0)_1"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_4": [],
+    "place_inside(board_game_264,bookcase_zfpyqe_1)_1": [
+        "grasp(board_game_264)_1",
+        "navigate_to(bookcase_zfpyqe_1)_4"
+    ],
+    "navigate_to(desk_nbpuns_0)_2": [],
+    "grasp(toy_train_265)_1": [
+        "navigate_to(desk_nbpuns_0)_2"
+    ],
+    "navigate_to(bookcase_zfpyqe_1)_5": [],
+    "place_inside(toy_train_265,bookcase_zfpyqe_1)_1": [
+        "grasp(toy_train_265)_1",
+        "navigate_to(bookcase_zfpyqe_1)_5"
+    ]
+}

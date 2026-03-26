@@ -1,0 +1,45 @@
+{
+    "navigate_to(countertop_fjkase_0)_1": [],
+    "open(toolbox_191)_1": [
+        "navigate_to(countertop_fjkase_0)_1"
+    ],
+    "grasp(drill_193)_1": [
+        "navigate_to(countertop_fjkase_0)_1"
+    ],
+    "place_inside(drill_193, toolbox_191)_1": [
+        "grasp(drill_193)_1",
+        "open(toolbox_191)_1"
+    ],
+    "grasp(screwdriver_188)_1": [
+        "navigate_to(countertop_fjkase_0)_1"
+    ],
+    "place_inside(screwdriver_188, toolbox_191)_1": [
+        "grasp(screwdriver_188)_1",
+        "open(toolbox_191)_1"
+    ],
+    "grasp(allen_wrench_189)_1": [
+        "navigate_to(countertop_fjkase_0)_1"
+    ],
+    "place_inside(allen_wrench_189, toolbox_191)_1": [
+        "grasp(allen_wrench_189)_1",
+        "open(toolbox_191)_1"
+    ],
+    "grasp(flashlight_190)_1": [
+        "navigate_to(countertop_fjkase_0)_1"
+    ],
+    "place_inside(flashlight_190, toolbox_191)_1": [
+        "grasp(flashlight_190)_1",
+        "open(toolbox_191)_1"
+    ],
+    "grasp(plier_192)_1": [
+        "navigate_to(countertop_fjkase_0)_1"
+    ],
+    "place_inside(plier_192, toolbox_191)_1": [
+        "grasp(plier_192)_1",
+        "open(toolbox_191)_1"
+    ],
+    "close(toolbox_191)_1": [
+        "place_inside(plier_192, toolbox_191)_1",
+        "open(toolbox_191)_1"
+    ]
+}

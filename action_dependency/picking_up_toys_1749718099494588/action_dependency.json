@@ -1,0 +1,56 @@
+{
+    "navigate_to(bed_rrcvaq_0)_1": [],
+    "grasp(board_game_229)_1": [
+        "navigate_to(bed_rrcvaq_0)_1"
+    ],
+    "navigate_to(toy_box_224)_1": [],
+    "place_inside(board_game_229, toy_box_224)_1": [
+        "grasp(board_game_229)_1",
+        "navigate_to(toy_box_224)_1"
+    ],
+    "navigate_to(bed_rrcvaq_0)_2": [],
+    "grasp(board_game_230)_1": [
+        "navigate_to(bed_rrcvaq_0)_2"
+    ],
+    "navigate_to(toy_box_224)_2": [],
+    "place_inside(board_game_230, toy_box_224)_1": [
+        "grasp(board_game_230)_1",
+        "navigate_to(toy_box_224)_2"
+    ],
+    "navigate_to(desk_xhjsub_0)_1": [],
+    "grasp(tennis_ball_225)_1": [
+        "navigate_to(desk_xhjsub_0)_1"
+    ],
+    "navigate_to(toy_box_224)_3": [],
+    "place_inside(tennis_ball_225, toy_box_224)_1": [
+        "grasp(tennis_ball_225)_1",
+        "navigate_to(toy_box_224)_3"
+    ],
+    "navigate_to(desk_xhjsub_0)_2": [],
+    "grasp(board_game_228)_1": [
+        "navigate_to(desk_xhjsub_0)_2"
+    ],
+    "navigate_to(toy_box_224)_4": [],
+    "place_inside(board_game_228, toy_box_224)_1": [
+        "grasp(board_game_228)_1",
+        "navigate_to(toy_box_224)_4"
+    ],
+    "navigate_to(desk_xhjsub_0)_3": [],
+    "grasp(jigsaw_puzzle_227)_1": [
+        "navigate_to(desk_xhjsub_0)_3"
+    ],
+    "navigate_to(toy_box_224)_5": [],
+    "place_inside(jigsaw_puzzle_227, toy_box_224)_1": [
+        "grasp(jigsaw_puzzle_227)_1",
+        "navigate_to(toy_box_224)_5"
+    ],
+    "navigate_to(desk_xhjsub_0)_4": [],
+    "grasp(jigsaw_puzzle_226)_1": [
+        "navigate_to(desk_xhjsub_0)_4"
+    ],
+    "navigate_to(toy_box_224)_6": [],
+    "place_inside(jigsaw_puzzle_226, toy_box_224)_1": [
+        "grasp(jigsaw_puzzle_226)_1",
+        "navigate_to(toy_box_224)_6"
+    ]
+}

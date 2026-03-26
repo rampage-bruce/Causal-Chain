@@ -1,0 +1,56 @@
+{
+    "navigate_to(washer_ynwamu_0)_1": [],
+    "open(washer_ynwamu_0)_1": [
+        "navigate_to(washer_ynwamu_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_no_top_gjrero_0)_1": [],
+    "open(bottom_cabinet_no_top_gjrero_0)_1": [
+        "navigate_to(bottom_cabinet_no_top_gjrero_0)_1"
+    ],
+    "grasp(teddy_bear_191)_1": [
+        "navigate_to(bottom_cabinet_no_top_gjrero_0)_1",
+        "open(bottom_cabinet_no_top_gjrero_0)_1"
+    ],
+    "grasp(teddy_bear_190)_1": [
+        "navigate_to(bottom_cabinet_no_top_gjrero_0)_1",
+        "open(bottom_cabinet_no_top_gjrero_0)_1"
+    ],
+    "navigate_to(washer_ynwamu_0)_2": [],
+    "place_inside(teddy_bear_191, washer_ynwamu_0)_1": [
+        "grasp(teddy_bear_191)_1",
+        "navigate_to(washer_ynwamu_0)_2",
+        "open(washer_ynwamu_0)_1"
+    ],
+    "place_inside(teddy_bear_190, washer_ynwamu_0)_1": [
+        "grasp(teddy_bear_190)_1",
+        "navigate_to(washer_ynwamu_0)_2",
+        "open(washer_ynwamu_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_no_top_gjrero_0)_2": [],
+    "grasp(softball_188)_1": [
+        "navigate_to(bottom_cabinet_no_top_gjrero_0)_2",
+        "open(bottom_cabinet_no_top_gjrero_0)_1"
+    ],
+    "grasp(tennis_ball_189)_1": [
+        "navigate_to(bottom_cabinet_no_top_gjrero_0)_2",
+        "open(bottom_cabinet_no_top_gjrero_0)_1"
+    ],
+    "navigate_to(washer_ynwamu_0)_3": [],
+    "place_inside(softball_188, washer_ynwamu_0)_1": [
+        "grasp(softball_188)_1",
+        "navigate_to(washer_ynwamu_0)_3",
+        "open(washer_ynwamu_0)_1"
+    ],
+    "place_inside(tennis_ball_189, washer_ynwamu_0)_1": [
+        "grasp(tennis_ball_189)_1",
+        "navigate_to(washer_ynwamu_0)_3",
+        "open(washer_ynwamu_0)_1"
+    ],
+    "close(washer_ynwamu_0)_1": [
+        "navigate_to(washer_ynwamu_0)_3",
+        "open(washer_ynwamu_0)_1"
+    ],
+    "toggle_on(washer_ynwamu_0)_1": [
+        "close(washer_ynwamu_0)_1"
+    ]
+}

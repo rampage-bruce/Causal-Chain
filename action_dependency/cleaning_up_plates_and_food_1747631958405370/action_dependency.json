@@ -1,0 +1,46 @@
+{
+    "navigate_to(fridge_petcxr_0)_1": [],
+    "open(fridge_petcxr_0)_1": [
+        "navigate_to(fridge_petcxr_0)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [],
+    "grasp(plate_93)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [],
+    "place_inside(plate_93, fridge_petcxr_0)_1": [
+        "grasp(plate_93)_1",
+        "navigate_to(fridge_petcxr_0)_2",
+        "open(fridge_petcxr_0)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_2": [],
+    "grasp(plate_94)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_2"
+    ],
+    "navigate_to(fridge_petcxr_0)_3": [],
+    "place_inside(plate_94, fridge_petcxr_0)_1": [
+        "grasp(plate_94)_1",
+        "navigate_to(fridge_petcxr_0)_3",
+        "open(fridge_petcxr_0)_1"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_3"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_3": [],
+    "grasp(bowl_92)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_3"
+    ],
+    "grasp(bowl_91)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_3"
+    ],
+    "navigate_to(drop_in_sink_lkklqs_0)_1": [],
+    "place_inside(bowl_91, drop_in_sink_lkklqs_0)_1": [
+        "grasp(bowl_91)_1",
+        "navigate_to(drop_in_sink_lkklqs_0)_1"
+    ],
+    "place_inside(bowl_92, drop_in_sink_lkklqs_0)_1": [
+        "grasp(bowl_92)_1",
+        "navigate_to(drop_in_sink_lkklqs_0)_1"
+    ]
+}

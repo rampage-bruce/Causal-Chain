@@ -1,0 +1,81 @@
+{
+    "navigate_to(bottom_cabinet_fancyy_0)_1": [],
+    "open(bottom_cabinet_fancyy_0)_1": [
+        "navigate_to(bottom_cabinet_fancyy_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [],
+    "grasp(box_of_oatmeal_213)_1": [
+        "navigate_to(countertop_kelzer_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_2": [],
+    "place_inside(box_of_oatmeal_213, bottom_cabinet_fancyy_0)_1": [
+        "grasp(box_of_oatmeal_213)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_2",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "grasp(bottle_of_olive_oil_209)_1": [
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "grasp(bottle_of_olive_oil_210)_1": [
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_3": [
+    ],
+    "place_inside(bottle_of_olive_oil_210, bottom_cabinet_fancyy_0)_1": [
+        "navigate_to(bottom_cabinet_fancyy_0)_3",
+        "grasp(bottle_of_olive_oil_210)_1",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "place_inside(bottle_of_olive_oil_209, bottom_cabinet_fancyy_0)_1": [
+        "grasp(bottle_of_olive_oil_209)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_3",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_3": [],
+    "grasp(jar_of_sugar_207)_1": [
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "grasp(jar_of_sugar_208)_1": [
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_4": [],
+    "place_inside(jar_of_sugar_208, bottom_cabinet_fancyy_0)_1": [
+        "grasp(jar_of_sugar_208)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_4",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "place_inside(jar_of_sugar_207, bottom_cabinet_fancyy_0)_1": [
+        "grasp(jar_of_sugar_207)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_4",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_4": [],
+    "grasp(bag_of_chips_211)_1": [
+        "navigate_to(countertop_kelzer_0)_4"
+    ],
+    "grasp(bag_of_chips_212)_1": [
+        "navigate_to(countertop_kelzer_0)_4"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_5": [],
+    "place_inside(bag_of_chips_211, bottom_cabinet_fancyy_0)_1": [
+        "grasp(bag_of_chips_211)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_5",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "place_inside(bag_of_chips_212, bottom_cabinet_fancyy_0)_1": [
+        "grasp(bag_of_chips_212)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_5",
+        "open(bottom_cabinet_fancyy_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_5": [],
+    "grasp(box_of_oatmeal_214)_1": [
+        "navigate_to(countertop_kelzer_0)_5"
+    ],
+    "navigate_to(bottom_cabinet_fancyy_0)_6": [],
+    "place_inside(box_of_oatmeal_214, bottom_cabinet_fancyy_0)_1": [
+        "grasp(box_of_oatmeal_214)_1",
+        "open(bottom_cabinet_fancyy_0)_1",
+        "navigate_to(bottom_cabinet_fancyy_0)_6"
+    ]
+}

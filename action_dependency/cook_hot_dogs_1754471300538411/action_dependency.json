@@ -1,0 +1,32 @@
+{
+    "navigate_to(microwave_abzvij_0)_1": [],
+    "open(microwave_abzvij_0)_1": [
+        "navigate_to(microwave_abzvij_0)_1"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(hotdog_207)_1": [
+        "navigate_to(fridge_dszchb_0)_1",
+        "open(fridge_dszchb_0)_1"
+    ],
+    "grasp(hotdog_208)_1": [
+        "navigate_to(fridge_dszchb_0)_1",
+        "open(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(microwave_abzvij_0)_2": [],
+    "place_inside(hotdog_208, microwave_abzvij_0)_1": [
+        "grasp(hotdog_208)_1",
+        "navigate_to(microwave_abzvij_0)_2",
+        "open(microwave_abzvij_0)_1"
+    ],
+    "place_inside(hotdog_207, microwave_abzvij_0)_1": [
+        "grasp(hotdog_207)_1",
+        "navigate_to(microwave_abzvij_0)_2",
+        "open(microwave_abzvij_0)_1"
+    ],
+    "toggle_on(microwave_abzvij_0)_1": [
+        "navigate_to(microwave_abzvij_0)_2"
+    ]
+}

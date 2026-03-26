@@ -1,0 +1,37 @@
+{
+    "navigate_to(countertop_kelzer_0)_1": [],
+    "grasp(paper_coffee_filter_210)_1": [
+        "navigate_to(countertop_kelzer_0)_1"
+    ],
+    "place_ontop(paper_coffee_filter_210, coffee_maker_212)_1": [
+        "grasp(paper_coffee_filter_210)_1"
+    ],
+    "navigate_to(shelf_pfusrd_1)_1": [],
+    "grasp(bottle_of_coffee_211)_1": [
+        "navigate_to(shelf_pfusrd_1)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(bottle_of_coffee_211, countertop_kelzer_0)_1": [
+        "grasp(bottle_of_coffee_211)_1",
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "grasp(saucer_208)_1": [
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "place_ontop(saucer_208, countertop_kelzer_0)_1": [
+        "grasp(saucer_208)_1"
+    ],
+    "grasp(electric_kettle_207)_1": [
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "place_ontop(electric_kettle_207, countertop_kelzer_0)_1": [
+        "grasp(electric_kettle_207)_1"
+    ],
+    "grasp(coffee_cup_209)_1": [
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "place_ontop(coffee_cup_209, saucer_208)_1": [
+        "grasp(coffee_cup_209)_1",
+        "place_ontop(saucer_208, countertop_kelzer_0)_1"
+    ]
+}

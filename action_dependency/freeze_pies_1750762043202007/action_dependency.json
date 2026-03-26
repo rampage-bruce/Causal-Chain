@@ -1,0 +1,73 @@
+{
+    "navigate_to(bottom_cabinet_no_top_gjeoer_0)_1": [],
+    "open(bottom_cabinet_no_top_gjeoer_0)_1": [
+        "navigate_to(bottom_cabinet_no_top_gjeoer_0)_1"
+    ],
+    "grasp(tupperware_231)_1": [
+        "open(bottom_cabinet_no_top_gjeoer_0)_1"
+    ],
+    "close(bottom_cabinet_no_top_gjeoer_0)_1": [
+        "open(bottom_cabinet_no_top_gjeoer_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [],
+    "place_ontop(tupperware_231, countertop_kelzer_0)_1": [
+        "grasp(tupperware_231)_1",
+        "navigate_to(countertop_kelzer_0)_1"
+    ],
+    "grasp(apple_pie_234)_1": [
+        "navigate_to(countertop_kelzer_0)_1"
+    ],
+    "place_inside(apple_pie_234, tupperware_231)_1": [
+        "grasp(apple_pie_234)_1",
+        "place_ontop(tupperware_231, countertop_kelzer_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_no_top_gjeoer_0)_2": [],
+    "open(bottom_cabinet_no_top_gjeoer_0)_2": [
+        "navigate_to(bottom_cabinet_no_top_gjeoer_0)_2"
+    ],
+    "grasp(tupperware_230)_1": [
+        "open(bottom_cabinet_no_top_gjeoer_0)_2"
+    ],
+    "close(bottom_cabinet_no_top_gjeoer_0)_2": [
+        "open(bottom_cabinet_no_top_gjeoer_0)_2"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(tupperware_230,countertop_kelzer_0)_1": [
+        "grasp(tupperware_230)_1",
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "grasp(apple_pie_235)_1": [
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "place_inside(apple_pie_235, tupperware_230)_1": [
+        "grasp(apple_pie_235)_1",
+        "place_ontop(tupperware_230,countertop_kelzer_0)_1"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_3": [],
+    "grasp(tupperware_230)_2": [
+        "place_ontop(tupperware_230,countertop_kelzer_0)_1",
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "grasp(tupperware_231)_2": [
+        "place_ontop(tupperware_231, countertop_kelzer_0)_1",
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "navigate_to(fridge_dszchb_0)_2": [],
+    "place_inside(tupperware_230,fridge_dszchb_0)_1": [
+        "grasp(tupperware_230)_2",
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_2"
+    ],
+    "place_inside(tupperware_231,fridge_dszchb_0)_1": [
+        "grasp(tupperware_231)_2",
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_2"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "open(fridge_dszchb_0)_1"
+    ]
+}

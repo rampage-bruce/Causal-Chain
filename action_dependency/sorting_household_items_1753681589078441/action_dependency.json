@@ -1,0 +1,56 @@
+{
+    "navigate_to(sliding_door_tprpvb_10)_1": [],
+    "open(sliding_door_tprpvb_10)_1": [
+        "navigate_to(sliding_door_tprpvb_10)_1"
+    ],
+    "navigate_to(hamper_226)_1": [],
+    "grasp(bottle_of_detergent_228)_1": [
+        "navigate_to(hamper_226)_1"
+    ],
+    "grasp(bottle_of_detergent_227)_1": [
+        "navigate_to(hamper_226)_1"
+    ],
+    "navigate_to(multi_station_furniture_sink_upwldu_0)_1": ["open(sliding_door_tprpvb_10)_1"],
+    "place_under(bottle_of_detergent_227,multi_station_furniture_sink_upwldu_0)_1": [
+        "grasp(bottle_of_detergent_227)_1",
+        "navigate_to(multi_station_furniture_sink_upwldu_0)_1"
+    ],
+    "place_under(bottle_of_detergent_228,multi_station_furniture_sink_upwldu_0)_1": [
+        "grasp(bottle_of_detergent_228)_1",
+        "navigate_to(multi_station_furniture_sink_upwldu_0)_1"
+    ],
+    "navigate_to(hamper_226)_2": ["open(sliding_door_tprpvb_10)_1"],
+    "grasp(box_of_sanitary_napkins_224)_1": [
+        "navigate_to(hamper_226)_2"
+    ],
+    "navigate_to(hamper_225)_1": [],
+    "grasp(soap_dispenser_223)_1": [
+        "navigate_to(hamper_225)_1"
+    ],
+    "navigate_to(multi_station_furniture_sink_upwldu_0)_2": ["open(sliding_door_tprpvb_10)_1"],
+    "place_ontop(soap_dispenser_223,multi_station_furniture_sink_upwldu_0)_1": [
+        "grasp(soap_dispenser_223)_1",
+        "navigate_to(multi_station_furniture_sink_upwldu_0)_2"
+    ],
+    "navigate_to(shelf_fjozhc_0)_1": [],
+    "place_ontop(box_of_sanitary_napkins_224,shelf_fjozhc_0)_1": [
+        "grasp(box_of_sanitary_napkins_224)_1",
+        "navigate_to(shelf_fjozhc_0)_1"
+    ],
+    "navigate_to(hamper_225)_2": ["open(sliding_door_tprpvb_10)_1"],
+    "grasp(tube_of_toothpaste_222)_1": [
+        "navigate_to(hamper_225)_2"
+    ],
+    "grasp(toothbrush_221)_1": [
+        "navigate_to(hamper_225)_2"
+    ],
+    "navigate_to(coffee_cup_220)_1": ["open(sliding_door_tprpvb_10)_1"],
+    "place_inside(toothbrush_221,coffee_cup_220)_1": [
+        "grasp(toothbrush_221)_1",
+        "navigate_to(coffee_cup_220)_1"
+    ],
+    "place_inside(tube_of_toothpaste_222,coffee_cup_220)_1": [
+        "grasp(tube_of_toothpaste_222)_1",
+        "navigate_to(coffee_cup_220)_1"
+    ]
+}

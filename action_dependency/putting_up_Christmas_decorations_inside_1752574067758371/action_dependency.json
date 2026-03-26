@@ -1,0 +1,65 @@
+{
+    "navigate_to(floors_uzsntg_0)_1": [],
+    "grasp(wicker_basket_218)_1": [
+        "navigate_to(floors_uzsntg_0)_1"
+    ],
+    "navigate_to(coffee_table_rlsebe_0)_1": [],
+    "place_ontop(wicker_basket_218, coffee_table_rlsebe_0)_1": [
+        "grasp(wicker_basket_218)_1",
+        "navigate_to(coffee_table_rlsebe_0)_1"
+    ],
+    "navigate_to(sofa_lugrhk_1)_1": [],
+    "grasp(pillar_candle_222)_1": [
+        "navigate_to(sofa_lugrhk_1)_1"
+    ],
+    "navigate_to(breakfast_table_rhjoby_0)_1": [],
+    "place_ontop(pillar_candle_222, breakfast_table_rhjoby_0)_1": [
+        "grasp(pillar_candle_222)_1",
+        "navigate_to(breakfast_table_rhjoby_0)_1"
+    ],
+    "navigate_to(sofa_lugrhk_1)_2": [],
+    "grasp(pillar_candle_223)_1": [
+        "navigate_to(sofa_lugrhk_1)_2"
+    ],
+    "navigate_to(breakfast_table_rhjoby_0)_2": [],
+    "place_ontop(pillar_candle_223, breakfast_table_rhjoby_0)_1": [
+        "grasp(pillar_candle_223)_1",
+        "navigate_to(breakfast_table_rhjoby_0)_2"
+    ],
+    "navigate_to(sofa_lugrhk_1)_3": [],
+    "grasp(candy_cane_224)_1": [
+        "navigate_to(sofa_lugrhk_1)_3"
+    ],
+    "navigate_to(breakfast_table_rhjoby_0)_3": [],
+    "place_ontop(candy_cane_224, breakfast_table_rhjoby_0)_1": [
+        "grasp(candy_cane_224)_1",
+        "navigate_to(breakfast_table_rhjoby_0)_3"
+    ],
+    "navigate_to(gift_box_219)_1": [],
+    "grasp(gift_box_219)_1": [
+        "navigate_to(gift_box_219)_1"
+    ],
+    "navigate_to(christmas_tree_228)_1": [],
+    "place_under(gift_box_219, christmas_tree_228)_1": [
+        "grasp(gift_box_219)_1",
+        "navigate_to(christmas_tree_228)_1"
+    ],
+    "navigate_to(gift_box_220)_1": [],
+    "grasp(gift_box_220)_1": [
+        "navigate_to(gift_box_220)_1"
+    ],
+    "navigate_to(christmas_tree_228)_2": [],
+    "place_under(gift_box_220, christmas_tree_228)_1": [
+        "grasp(gift_box_220)_1",
+        "navigate_to(christmas_tree_228)_2"
+    ],
+    "navigate_to(gift_box_221)_1": [],
+    "grasp(gift_box_221)_1": [
+        "navigate_to(gift_box_221)_1"
+    ],
+    "navigate_to(christmas_tree_228)_3": [],
+    "place_under(gift_box_221, christmas_tree_228)_1": [
+        "grasp(gift_box_221)_1",
+        "navigate_to(christmas_tree_228)_3"
+    ]
+}

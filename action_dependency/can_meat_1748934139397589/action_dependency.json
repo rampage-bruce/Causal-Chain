@@ -1,0 +1,76 @@
+{
+    "navigate_to(top_cabinet_lkxmne_2)_1": [],
+    "open(top_cabinet_lkxmne_2)_1": [
+        "navigate_to(top_cabinet_lkxmne_2)_1"
+    ],
+    "grasp(hinged_jar_236)_1": [
+        "open(top_cabinet_lkxmne_2)_1"
+    ],
+    "navigate_to(bar_udatjt_0)_1": [],
+    "open(hinged_jar_236)_1": [
+        "grasp(hinged_jar_236)_1",
+        "navigate_to(bar_udatjt_0)_1"
+    ],
+    "grasp(bratwurst_233)_1": [
+        "navigate_to(bar_udatjt_0)_1"
+    ],
+    "place_inside(bratwurst_233, hinged_jar_236)_1": [
+        "grasp(bratwurst_233)_1",
+        "open(hinged_jar_236)_1",
+        "grasp(hinged_jar_236)_1"
+    ],
+    "grasp(bratwurst_231)_1": [
+        "navigate_to(bar_udatjt_0)_1"
+    ],
+    "place_inside(bratwurst_231, hinged_jar_236)_1": [
+        "grasp(bratwurst_231)_1",
+        "open(hinged_jar_236)_1",
+        "grasp(hinged_jar_236)_1"
+    ],
+    "close(hinged_jar_236)_1": [
+        "open(hinged_jar_236)_1"
+    ],
+    "navigate_to(top_cabinet_lkxmne_2)_2": [],
+    "place_inside(hinged_jar_236, top_cabinet_lkxmne_2)_1": [
+        "grasp(hinged_jar_236)_1",
+        "navigate_to(top_cabinet_lkxmne_2)_2"
+    ],
+    "grasp(hinged_jar_235)_1": [
+        "open(top_cabinet_lkxmne_2)_1",
+        "navigate_to(top_cabinet_lkxmne_2)_2"
+    ],
+    "navigate_to(bar_udatjt_0)_2": [],
+    "open(hinged_jar_235)_1": [
+        "grasp(hinged_jar_235)_1",
+        "navigate_to(bar_udatjt_0)_2"
+    ],
+    "grasp(bratwurst_230)_1": [
+        "navigate_to(bar_udatjt_0)_2"
+    ],
+    "place_inside(bratwurst_230, hinged_jar_235)_1": [
+        "grasp(bratwurst_230)_1",
+        "open(hinged_jar_235)_1",
+        "grasp(hinged_jar_235)_1"
+    ],
+    "grasp(bratwurst_232)_1": [
+        "navigate_to(bar_udatjt_0)_2"
+    ],
+    "place_inside(bratwurst_232, hinged_jar_235)_1": [
+        "grasp(bratwurst_232)_1",
+        "open(hinged_jar_235)_1",
+        "grasp(hinged_jar_235)_1"
+    ],
+    "close(hinged_jar_235)_1": [
+        "open(hinged_jar_235)_1",
+        "grasp(hinged_jar_235)_1"
+    ],
+    "navigate_to(top_cabinet_lkxmne_2)_3": [],
+    "place_inside(hinged_jar_235, top_cabinet_lkxmne_2)_1": [
+        "grasp(hinged_jar_235)_2",
+        "navigate_to(top_cabinet_lkxmne_2)_3"
+    ],
+    "close(top_cabinet_lkxmne_2)_1": [
+        "open(top_cabinet_lkxmne_2)_1",
+        "navigate_to(top_cabinet_lkxmne_2)_3"
+    ]
+}

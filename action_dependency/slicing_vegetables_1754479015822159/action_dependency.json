@@ -1,0 +1,79 @@
+{
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(bell_pepper_214)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "grasp(bell_pepper_213)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(countertop_kelzer_0)_1": [],
+    "place_ontop(bell_pepper_214, cutting_board_210)_1": [
+        "grasp(bell_pepper_214)_1",
+        "navigate_to(countertop_kelzer_0)_1"
+    ],
+    "place_ontop(bell_pepper_213, cutting_board_210)_1": [
+        "grasp(bell_pepper_213)_1",
+        "navigate_to(countertop_kelzer_0)_1"
+    ],
+    "navigate_to(fridge_dszchb_0)_2": [],
+    "grasp(beet_211)_1": [
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_2"
+    ],
+    "grasp(beet_212)_1": [
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_2"
+    ],
+    "navigate_to(countertop_kelzer_0)_2": [],
+    "place_ontop(beet_211, cutting_board_209)_1": [
+        "grasp(beet_211)_1",
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "place_ontop(beet_212, cutting_board_209)_1": [
+        "grasp(beet_212)_1",
+        "navigate_to(countertop_kelzer_0)_2"
+    ],
+    "navigate_to(fridge_dszchb_0)_3": [],
+    "grasp(zucchini_208)_1": [
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_3"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "open(fridge_dszchb_0)_1",
+        "navigate_to(fridge_dszchb_0)_3"
+    ],
+    "navigate_to(countertop_kelzer_0)_3": [],
+    "place_ontop(zucchini_208, cutting_board_209)_1": [
+        "grasp(zucchini_208)_1",
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "grasp(parer_207)_1": [
+        "navigate_to(countertop_kelzer_0)_3"
+    ],
+    "slice(beet_212, parer_207, robot_r1)_1": [
+        "grasp(parer_207)_1",
+        "place_ontop(beet_212, cutting_board_209)_1"
+    ],
+    "slice(beet_211, parer_207, robot_r1)_1": [
+        "grasp(parer_207)_1",
+        "place_ontop(beet_211, cutting_board_209)_1"
+    ],
+    "slice(zucchini_208, parer_207, robot_r1)_1": [
+        "grasp(parer_207)_1",
+        "place_ontop(zucchini_208, cutting_board_209)_1"
+    ],
+    "slice(bell_pepper_214, parer_207, robot_r1)_1": [
+        "grasp(parer_207)_1",
+        "place_ontop(bell_pepper_214, cutting_board_210)_1"
+    ],
+    "slice(bell_pepper_213, parer_207, robot_r1)_1": [
+        "grasp(parer_207)_1",
+        "place_ontop(bell_pepper_213, cutting_board_210)_1"
+    ],
+    "place_ontop(parer_207, countertop_kelzer_0)_1": [
+        "grasp(parer_207)_1"
+    ]
+}

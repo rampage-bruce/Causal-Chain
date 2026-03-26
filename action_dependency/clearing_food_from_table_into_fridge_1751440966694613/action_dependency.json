@@ -1,0 +1,60 @@
+{
+    "navigate_to(bar_egwapq_0)_1": [],
+    "grasp(tupperware_73)_1": [
+        "navigate_to(bar_egwapq_0)_1"
+    ],
+    "grasp(tupperware_74)_1": [
+        "navigate_to(bar_egwapq_0)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [],
+    "place_ontop(tupperware_74,breakfast_table_xftrki_0)_1": [
+        "grasp(tupperware_74)_1",
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ],
+    "place_ontop(tupperware_73,breakfast_table_xftrki_0)_1": [
+        "grasp(tupperware_73)_1",
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ],
+    "grasp(half_chicken_78)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ],
+    "place_inside(half_chicken_78,tupperware_73)_1": [
+        "grasp(half_chicken_78)_1",
+        "place_ontop(tupperware_73,breakfast_table_xftrki_0)_1"
+    ],
+    "grasp(half_apple_pie_77)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ],
+    "place_inside(half_apple_pie_77,tupperware_74)_1": [
+        "grasp(half_apple_pie_77)_1",
+        "place_ontop(tupperware_74,breakfast_table_xftrki_0)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_1": [],
+    "open(fridge_petcxr_0)_1": [
+        "navigate_to(fridge_petcxr_0)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_2": [],
+    "grasp(tupperware_74)_2": [
+        "navigate_to(breakfast_table_xftrki_0)_2",
+        "place_ontop(tupperware_74,breakfast_table_xftrki_0)_1"
+    ],
+    "grasp(tupperware_73)_2": [
+        "navigate_to(breakfast_table_xftrki_0)_2",
+        "place_ontop(tupperware_73,breakfast_table_xftrki_0)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [],
+    "place_inside(tupperware_74,fridge_petcxr_0)_1": [
+        "grasp(tupperware_74)_2",
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_2"
+    ],
+    "place_inside(tupperware_73,fridge_petcxr_0)_1": [
+        "grasp(tupperware_73)_2",
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_2"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_2"
+    ]
+}

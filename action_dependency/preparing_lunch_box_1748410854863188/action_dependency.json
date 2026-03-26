@@ -1,0 +1,49 @@
+{
+    "navigate_to(countertop_kelker_0)_1": [],
+    "grasp(packing_box_210)_1": [
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "place_ontop(packing_box_210,burner_mjvqii_0)_1": [
+        "grasp(packing_box_210)_1"
+    ],
+    "navigate_to(chopping_board_211)_1": [],
+    "grasp(half_apple_213)_1": [
+        "navigate_to(chopping_board_211)_1"
+    ],
+    "place_inside(half_apple_213,packing_box_210)_1": [
+        "grasp(half_apple_213)_1"
+    ],
+    "grasp(club_sandwich_209)_1": [
+        "navigate_to(chopping_board_211)_1"
+    ],
+    "place_inside(club_sandwich_209,packing_box_210)_1": [
+        "grasp(club_sandwich_209)_1"
+    ],
+    "grasp(half_apple_212)_1": [
+        "navigate_to(chopping_board_211)_1"
+    ],
+    "place_inside(half_apple_212,packing_box_210)_1": [
+        "grasp(half_apple_212)_1"
+    ],
+    "grasp(chocolate_chip_cookie_207)_1": [
+        "navigate_to(chopping_board_211)_1"
+    ],
+    "place_inside(chocolate_chip_cookie_207,packing_box_210)_1": [
+        "grasp(chocolate_chip_cookie_207)_1"
+    ],
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(bottle_of_tea_208)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(countertop_kelker_0)_2": [],
+    "place_inside(bottle_of_tea_208,packing_box_210)_1": [
+        "grasp(bottle_of_tea_208)_1",
+        "navigate_to(countertop_kelker_0)_2"
+    ]
+}

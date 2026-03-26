@@ -1,0 +1,94 @@
+{
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(head_cabbage_212)_1": [
+        "navigate_to(fridge_dszchb_0)_1",
+        "open(fridge_dszchb_0)_1"
+    ],
+    "grasp(chili_211)_1": [
+        "navigate_to(fridge_dszchb_0)_1",
+        "open(fridge_dszchb_0)_1"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1",
+        "open(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(countertop_kelker_0)_1": [],
+    "place_ontop(chili_211,plate_207)_1": [
+        "grasp(chili_211)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "place_ontop(head_cabbage_212, cutting_board_210)_1": [
+        "grasp(head_cabbage_212)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "grasp(frying_pan_208)_1": [
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "place_ontop(frying_pan_208,burner_mjvqii_0)_1": [
+        "grasp(frying_pan_208)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "grasp(carving_knife_209)_1": [
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "slice-carvingknife(head_cabbage_212, carving_knife_209)_1": [
+        "place_ontop(head_cabbage_212, cutting_board_210)_1",
+        "grasp(carving_knife_209)_1"
+    ],
+    "place_ontop(carving_knife_209,countertop_kelker_0)_1": [
+        "grasp(carving_knife_209)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "grasp(cutting_board_210)_1": [
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "place_inside(head_cabbage_212,frying_pan_208)_1": [
+        "place_ontop(head_cabbage_212, cutting_board_210)_1",
+        "grasp(cutting_board_210)_1",
+        "place_ontop(frying_pan_208,burner_mjvqii_0)_1"
+    ],
+    "place_ontop(cutting_board_210,countertop_kelker_0)_1": [
+        "grasp(cutting_board_210)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "grasp(chili_211)_2": [
+        "place_ontop(chili_211,plate_207)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "place_ontop(chili_211,cutting_board_210)": [
+        "grasp(chili_211)_2",
+        "place_ontop(cutting_board_210,countertop_kelker_0)_1"
+    ],
+    "grasp(carving_knife_209)_2": [
+        "place_ontop(carving_knife_209,countertop_kelker_0)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "slice-carvingknife(chili_211, carving_knife_209)_1": [
+        "place_ontop(chili_211,cutting_board_210)",
+        "grasp(carving_knife_209)_2"
+    ],
+    "place_ontop(carving_knife_209,countertop_kelker_0)_2": [
+        "grasp(carving_knife_209)_2",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "grasp(cutting_board_210)_2": [
+        "place_ontop(cutting_board_210,countertop_kelker_0)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "place_inside(chili_211,frying_pan_208)_1": [
+        "place_ontop(chili_211,cutting_board_210)",
+        "grasp(cutting_board_210)_2",
+        "place_ontop(frying_pan_208,burner_mjvqii_0)_1"
+    ],
+    "place_ontop(cutting_board_210,countertop_kelker_0)_2": [
+        "grasp(cutting_board_210)_2",
+        "navigate_to(countertop_kelker_0)_1"
+    ],
+    "toggle_on(burner_mjvqii_0)_1": [
+        "place_ontop(frying_pan_208,burner_mjvqii_0)_1",
+        "navigate_to(countertop_kelker_0)_1"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "navigate_to(eames_chair_hndxiw_0)_1": [],
+    "grasp(folder_231)_1": [
+        "navigate_to(eames_chair_hndxiw_0)_1"
+    ],
+    "navigate_to(bookcase_jaysra_0)_1": [],
+    "place_inside(folder_231,bookcase_jaysra_0)_1": [
+        "grasp(folder_231)_1",
+        "navigate_to(bookcase_jaysra_0)_1"
+    ],
+    "navigate_to(eames_chair_hndxiw_0)_2": [],
+    "grasp(eames_chair_hndxiw_0)_1": [
+        "navigate_to(eames_chair_hndxiw_0)_2"
+    ],
+    "place_under(eames_chair_hndxiw_0,desk_bhkhxo_0)_1": [
+        "grasp(eames_chair_hndxiw_0)_1"
+    ],
+    "navigate_to(desk_bhkhxo_0)_1": [],
+    "grasp(pencil_case_224)_1": [
+        "navigate_to(desk_bhkhxo_0)_1"
+    ],
+    "grasp(pen_228)_1": [
+        "navigate_to(desk_bhkhxo_0)_1"
+    ],
+    "place_inside(pen_228,pencil_case_224)_1": [
+        "grasp(pen_228)_1",
+        "grasp(pencil_case_224)_1"
+    ],
+    "grasp(pencil_230)_1": [
+        "navigate_to(desk_bhkhxo_0)_1"
+    ],
+    "place_inside(pencil_230,pencil_case_224)_1": [
+        "grasp(pencil_230)_1",
+        "grasp(pencil_case_224)_1"
+    ],
+    "grasp(pen_229)_1": [
+        "navigate_to(desk_bhkhxo_0)_1"
+    ],
+    "place_inside(pen_229,pencil_case_224)_1": [
+        "grasp(pen_229)_1",
+        "grasp(pencil_case_224)_1"
+    ],
+    "place_ontop(pencil_case_224,desk_bhkhxo_0)_1": [
+        "grasp(pencil_case_224)_1",
+        "navigate_to(desk_bhkhxo_0)_1"
+    ],
+    "navigate_to(desk_bhkhxo_0)_2": [],
+    "grasp(paperback_book_226)_1": [
+        "navigate_to(desk_bhkhxo_0)_2"
+    ],
+    "navigate_to(bookcase_jaysra_0)_2": [],
+    "place_inside(paperback_book_226,bookcase_jaysra_0)_1": [
+        "grasp(paperback_book_226)_1",
+        "navigate_to(bookcase_jaysra_0)_2"
+    ],
+    "navigate_to(desk_bhkhxo_0)_3": [],
+    "grasp(paperback_book_225)_1": [
+        "navigate_to(desk_bhkhxo_0)_3"
+    ],
+    "navigate_to(bookcase_jaysra_0)_3": [],
+    "place_inside(paperback_book_225,bookcase_jaysra_0)_1": [
+        "grasp(paperback_book_225)_1",
+        "navigate_to(bookcase_jaysra_0)_3"
+    ],
+    "navigate_to(desk_bhkhxo_0)_4": [],
+    "grasp(folder_232)_1": [
+        "navigate_to(desk_bhkhxo_0)_4"
+    ],
+    "navigate_to(bookcase_jaysra_0)_4": [],
+    "place_inside(folder_232,bookcase_jaysra_0)_1": [
+        "grasp(folder_232)_1",
+        "navigate_to(bookcase_jaysra_0)_4"
+    ],
+    "navigate_to(bed_rrcvaq_1)_1": [],
+    "grasp(laptop_233)_1": [
+        "navigate_to(bed_rrcvaq_1)_1"
+    ],
+    "navigate_to(desk_bhkhxo_0)_5": [],
+    "place_ontop(laptop_233,desk_bhkhxo_0)_1": [
+        "grasp(laptop_233)_1",
+        "navigate_to(desk_bhkhxo_0)_5"
+    ],
+    "navigate_to(bookcase_jaysra_0)_5": [],
+    "grasp(stapler_227)_1": [
+        "navigate_to(bookcase_jaysra_0)_5"
+    ],
+    "navigate_to(desk_bhkhxo_0)_6": [],
+    "place_ontop(stapler_227,desk_bhkhxo_0)_1": [
+        "grasp(stapler_227)_1",
+        "navigate_to(desk_bhkhxo_0)_6"
+    ]
+}

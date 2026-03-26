@@ -1,0 +1,57 @@
+{
+    "navigate_to(floors_ghetev_0)_1": [],
+    "grasp(broom_172)_1": [
+        "navigate_to(floors_ghetev_0)_1"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_1": [
+        "grasp(broom_172)_1"
+    ],
+    "grasp(broom_172)_2": [
+        "place_ontop(broom_172, floors_ghetev_0)_1"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_2": [
+        "grasp(broom_172)_2"
+    ],
+    "grasp(broom_172)_3": [
+        "place_ontop(broom_172, floors_ghetev_0)_2"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_3": [
+        "grasp(broom_172)_3"
+    ],
+    "grasp(broom_172)_4": [
+        "place_ontop(broom_172, floors_ghetev_0)_3"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_4": [
+        "grasp(broom_172)_4"
+    ],
+    "grasp(garden_chair_cottya_2)_1": [
+        "navigate_to(floors_ghetev_0)_1"
+    ],
+    "release(garden_chair_cottya_2)_1": [
+        "grasp(garden_chair_cottya_2)_1"
+    ],
+    "grasp(broom_172)_5": [
+        "place_ontop(broom_172, floors_ghetev_0)_4"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_5": [
+        "grasp(broom_172)_5"
+    ],
+    "grasp(broom_172)_6": [
+        "place_ontop(broom_172, floors_ghetev_0)_5"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_6": [
+        "grasp(broom_172)_6"
+    ],
+    "grasp(garden_chair_cottya_1)_1": [
+        "navigate_to(floors_ghetev_0)_1"
+    ],
+    "release(garden_chair_cottya_1)_1": [
+        "grasp(garden_chair_cottya_1)_1"
+    ],
+    "grasp(broom_172)_7": [
+        "place_ontop(broom_172, floors_ghetev_0)_6"
+    ],
+    "place_ontop(broom_172, floors_ghetev_0)_7": [
+        "grasp(broom_172)_7"
+    ]
+}

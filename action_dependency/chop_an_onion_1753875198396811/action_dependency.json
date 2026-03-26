@@ -1,0 +1,39 @@
+{
+    "navigate_to(bar_egwapq_0)_1": [],
+    "grasp(cutting_board_76)_1": [
+        "navigate_to(bar_egwapq_0)_1"
+    ],
+    "place_nextto(cutting_board_76,parer_74)_1": [
+        "grasp(cutting_board_76)_1"
+    ],
+    "navigate_to(drop_in_sink_lkklqs_0)_1": [],
+    "grasp(vidalia_onion_75)_1": [
+        "navigate_to(drop_in_sink_lkklqs_0)_1"
+    ],
+    "navigate_to(bar_egwapq_0)_2": [],
+    "place_ontop(vidalia_onion_75,cutting_board_76)_1": [
+        "grasp(vidalia_onion_75)_1",
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "grasp(parer_74)_1": [
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "slice(vidalia_onion_75,parer_74)_1": [
+        "grasp(parer_74)_1",
+        "place_ontop(vidalia_onion_75,cutting_board_76)_1"
+    ],
+    "place_ontop(parer_74,bar_egwapq_0)_1": [
+        "grasp(parer_74)_1"
+    ],
+    "grasp(cutting_board_76)_2": [
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "place_inside(vidalia_onion_75,bowl_73)_1": [
+        "place_ontop(vidalia_onion_75,cutting_board_76)_1",
+        "grasp(cutting_board_76)_2",
+        "navigate_to(bar_egwapq_0)_2"
+    ],
+    "place_ontop(cutting_board_76,drop_in_sink_lkklqs_0)_1": [
+        "grasp(cutting_board_76)_2"
+    ]
+}

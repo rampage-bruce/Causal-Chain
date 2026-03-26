@@ -1,0 +1,47 @@
+{
+    "navigate_to(car_ssxsje_0)_1": [],
+    "grasp(paper_bag_81)_1": [
+        "navigate_to(car_ssxsje_0)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [],
+    "place_ontop(paper_bag_81, breakfast_table_xftrki_0)_1": [
+        "grasp(paper_bag_81)_1",
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ],
+    "grasp(beefsteak_tomato_80)_1": [
+        "place_ontop(paper_bag_81, breakfast_table_xftrki_0)_1"
+    ],
+    "place_ontop(beefsteak_tomato_80, breakfast_table_xftrki_0)_1": [
+        "grasp(beefsteak_tomato_80)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_1": [],
+    "open(fridge_petcxr_0)_1": [
+        "navigate_to(fridge_petcxr_0)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_2": [],
+    "grasp(beefsteak_tomato_80)_2": [
+        "navigate_to(breakfast_table_xftrki_0)_2",
+        "place_ontop(beefsteak_tomato_80, breakfast_table_xftrki_0)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_2": [],
+    "place_inside(beefsteak_tomato_80, fridge_petcxr_0)_1": [
+        "grasp(beefsteak_tomato_80)_2",
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_2"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_3": [],
+    "grasp(carton_of_milk_79)_1": [
+        "navigate_to(breakfast_table_xftrki_0)_3",
+        "place_ontop(paper_bag_81, breakfast_table_xftrki_0)_1"
+    ],
+    "navigate_to(fridge_petcxr_0)_3": [],
+    "place_inside(carton_of_milk_79, fridge_petcxr_0)_1": [
+        "grasp(carton_of_milk_79)_1",
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_3"
+    ],
+    "close(fridge_petcxr_0)_1": [
+        "open(fridge_petcxr_0)_1",
+        "navigate_to(fridge_petcxr_0)_3"
+    ]
+}

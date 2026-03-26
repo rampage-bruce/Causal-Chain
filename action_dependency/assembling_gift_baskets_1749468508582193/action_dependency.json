@@ -1,0 +1,148 @@
+{
+    "navigate_to(wicker_basket_89)_1": [],
+    "grasp(wicker_basket_89)_1": [
+        "navigate_to(wicker_basket_89)_1"
+    ],
+    "navigate_to(wicker_basket_91)_1": [],
+    "grasp(wicker_basket_91)_1": [
+        "navigate_to(wicker_basket_91)_1"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_1": [],
+    "place_ontop(wicker_basket_89, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(wicker_basket_89)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_1"
+    ],
+    "place_ontop(wicker_basket_91, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(wicker_basket_91)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_1"
+    ],
+    "navigate_to(wicker_basket_92)_1": [],
+    "grasp(wicker_basket_92)_1": [
+        "navigate_to(wicker_basket_92)_1"
+    ],
+    "navigate_to(wicker_basket_90)_1": [],
+    "grasp(wicker_basket_90)_1": [
+        "navigate_to(wicker_basket_90)_1"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_2": [],
+    "place_ontop(wicker_basket_90, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(wicker_basket_90)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_2"
+    ],
+    "place_ontop(wicker_basket_92, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(wicker_basket_92)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_2"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_1": [],
+    "grasp(bow_74)_1": [
+        "navigate_to(coffee_table_koagbh_0)_1"
+    ],
+    "grasp(bow_76)_1": [
+        "navigate_to(coffee_table_koagbh_0)_1"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_3": [],
+    "place_inside(bow_74, wicker_basket_89)_1": [
+        "grasp(bow_74)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_3"
+    ],
+    "place_inside(bow_76, wicker_basket_91)_1": [
+        "grasp(bow_76)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_3"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_2": [],
+    "grasp(bow_73)_1": [
+        "navigate_to(coffee_table_koagbh_0)_2"
+    ],
+    "grasp(bow_75)_1": [
+        "navigate_to(coffee_table_koagbh_0)_2"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_4": [],
+    "place_inside(bow_73, wicker_basket_90)_1": [
+        "grasp(bow_73)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_4"
+    ],
+    "place_inside(bow_75, wicker_basket_92)_1": [
+        "grasp(bow_75)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_4"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_3": [],
+    "grasp(pillar_candle_86)_1": [
+        "navigate_to(coffee_table_koagbh_0)_3"
+    ],
+    "grasp(pillar_candle_88)_1": [
+        "navigate_to(coffee_table_koagbh_0)_3"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_5": [],
+    "place_inside(pillar_candle_86, wicker_basket_92)_1": [
+        "grasp(pillar_candle_86)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_5"
+    ],
+    "place_inside(pillar_candle_88, wicker_basket_90)_1": [
+        "grasp(pillar_candle_88)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_5"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_4": [],
+    "grasp(butter_cookie_84)_1": [
+        "navigate_to(coffee_table_koagbh_0)_4"
+    ],
+    "grasp(butter_cookie_81)_1": [
+        "navigate_to(coffee_table_koagbh_0)_4"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_6": [],
+    "place_inside(butter_cookie_84, wicker_basket_92)_1": [
+        "grasp(butter_cookie_84)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_6"
+    ],
+    "place_inside(butter_cookie_81, wicker_basket_90)_1": [
+        "grasp(butter_cookie_81)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_6"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_5": [],
+    "grasp(butter_cookie_82)_1": [
+        "navigate_to(coffee_table_koagbh_0)_5"
+    ],
+    "grasp(butter_cookie_83)_1": [
+        "navigate_to(coffee_table_koagbh_0)_5"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_7": [],
+    "place_inside(butter_cookie_82, wicker_basket_91)_1": [
+        "grasp(butter_cookie_82)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_7"
+    ],
+    "place_inside(butter_cookie_83, wicker_basket_89)_1": [
+        "grasp(butter_cookie_83)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_7"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_6": [],
+    "grasp(swiss_cheese_79)_1": [
+        "navigate_to(coffee_table_koagbh_0)_6"
+    ],
+    "grasp(swiss_cheese_78)_1": [
+        "navigate_to(coffee_table_koagbh_0)_6"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_8": [],
+    "place_inside(swiss_cheese_78, wicker_basket_90)_1": [
+        "grasp(swiss_cheese_78)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_8"
+    ],
+    "place_inside(swiss_cheese_79, wicker_basket_92)_1": [
+        "grasp(swiss_cheese_79)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_8"
+    ],
+    "navigate_to(coffee_table_koagbh_0)_7": [],
+    "grasp(swiss_cheese_80)_1": [
+        "navigate_to(coffee_table_koagbh_0)_7"
+    ],
+    "grasp(swiss_cheese_77)_1": [
+        "navigate_to(coffee_table_koagbh_0)_7"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_9": [],
+    "place_inside(swiss_cheese_80, wicker_basket_91)_1": [
+        "grasp(swiss_cheese_80)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_9"
+    ],
+    "place_inside(swiss_cheese_77, wicker_basket_89)_1": [
+        "grasp(swiss_cheese_77)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_9"
+    ]
+}

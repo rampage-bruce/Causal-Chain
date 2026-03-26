@@ -1,0 +1,51 @@
+{
+    "navigate_to(fridge_dszchb_0)_1": [],
+    "open(fridge_dszchb_0)_1": [
+        "navigate_to(fridge_dszchb_0)_1"
+    ],
+    "grasp(tray_208)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "close(fridge_dszchb_0)_1": [
+        "open(fridge_dszchb_0)_1"
+    ],
+    "navigate_to(burner_mjvqii_0)_1": [],
+    "place_ontop(tray_208,burner_mjvqii_0)_1": [
+        "grasp(tray_208)_1",
+        "navigate_to(burner_mjvqii_0)_1"
+    ],
+    "grasp(frying_pan_207)_1": [
+        "navigate_to(burner_mjvqii_0)_1"
+    ],
+    "place_ontop(frying_pan_207, burner_mjvqii_0)_1": [
+        "grasp(frying_pan_207)_1"
+    ],
+    "navigate_to(tray_208)_1": [],
+    "grasp(tray_208)_2": [
+        "navigate_to(tray_208)_1"
+    ],
+    "place_inside(bacon_211, frying_pan_207)_1": [
+        "grasp(tray_208)_2"
+    ],
+    "place_inside(bacon_210, frying_pan_207)_1": [
+        "grasp(tray_208)_2"
+    ],
+    "place_inside(bacon_213, frying_pan_207)_1": [
+        "grasp(tray_208)_2"
+    ],
+    "place_inside(bacon_214, frying_pan_207)_1": [
+        "grasp(tray_208)_2"
+    ],
+    "place_inside(bacon_209, frying_pan_207)_1": [
+        "grasp(tray_208)_2"
+    ],
+    "place_inside(bacon_212, frying_pan_207)_1": [
+        "grasp(tray_208)_2"
+    ],
+    "place_ontop(tray_208,burner_mjvqii_0)_2":[
+        "grasp(tray_208)_2"
+    ],
+    "toggle_on(burner_mjvqii_0)_1": [
+        "place_ontop(frying_pan_207, burner_mjvqii_0)_1"
+    ]
+}

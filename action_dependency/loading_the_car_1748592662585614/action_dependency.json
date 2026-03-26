@@ -1,0 +1,26 @@
+{
+    "navigate_to(coffee_table_koagbh_0)_1": [],
+    "grasp(tennis_racket_80)_1": [
+        "navigate_to(coffee_table_koagbh_0)_1"
+    ],
+    "grasp(digital_camera_79)_1": [
+        "navigate_to(coffee_table_koagbh_0)_1"
+    ],
+    "navigate_to(toy_box_81)_1": [],
+    "place_inside(digital_camera_79,toy_box_81)_1": [
+        "grasp(digital_camera_79)_1",
+        "navigate_to(toy_box_81)_1"
+    ],
+    "grasp(toy_box_81)_1": [
+        "navigate_to(toy_box_81)_1"
+    ],
+    "navigate_to(car_ssxsje_0)_1": [],
+    "place_inside(toy_box_81,car_ssxsje_0)_1": [
+        "grasp(toy_box_81)_1",
+        "navigate_to(car_ssxsje_0)_1"
+    ],
+    "place_inside(tennis_racket_80,car_ssxsje_0)_1": [
+        "grasp(tennis_racket_80)_1",
+        "navigate_to(car_ssxsje_0)_1"
+    ]
+}

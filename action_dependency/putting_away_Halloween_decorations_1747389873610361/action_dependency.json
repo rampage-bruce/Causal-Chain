@@ -1,0 +1,72 @@
+{
+    "navigate_to(pillar_candle_89)_1": [],
+    "grasp(pillar_candle_89)_1": [
+        "navigate_to(pillar_candle_89)_1"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_1": [],
+    "open(bottom_cabinet_rhdbzv_0)_1": [
+        "navigate_to(bottom_cabinet_rhdbzv_0)_1"
+    ],
+    "place_inside(pillar_candle_89, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(pillar_candle_89)_1",
+        "open(bottom_cabinet_rhdbzv_0)_1"
+    ],
+    "navigate_to(pillar_candle_91)_1": [],
+    "grasp(pillar_candle_91)_1": [
+        "navigate_to(pillar_candle_91)_1"
+    ],
+    "navigate_to(pillar_candle_90)_1": [],
+    "grasp(pillar_candle_90)_1": [
+        "navigate_to(pillar_candle_90)_1"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_2": [],
+    "place_inside(pillar_candle_91, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(pillar_candle_91)_1",
+        "open(bottom_cabinet_rhdbzv_0)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_2"
+    ],
+    "place_inside(pillar_candle_90, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(pillar_candle_90)_1",
+        "open(bottom_cabinet_rhdbzv_0)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_2"
+    ],
+    "close(bottom_cabinet_rhdbzv_0)_1": [
+        "open(bottom_cabinet_rhdbzv_0)_1",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_2"
+    ],
+    "open(bottom_cabinet_rhdbzv_0)_2": [
+        "close(bottom_cabinet_rhdbzv_0)_1"
+    ],
+    "navigate_to(pumpkin_93)_1": [],
+    "grasp(pumpkin_93)_1": [
+        "navigate_to(pumpkin_93)_1"
+    ],
+    "navigate_to(pumpkin_94)_1": [],
+    "grasp(pumpkin_94)_1": [
+        "navigate_to(pumpkin_94)_1"
+    ],
+    "navigate_to(bottom_cabinet_rhdbzv_0)_3": [],
+    "place_inside(pumpkin_93, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(pumpkin_93)_1",
+        "open(bottom_cabinet_rhdbzv_0)_2",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_3"
+    ],
+    "place_inside(pumpkin_94, bottom_cabinet_rhdbzv_0)_1": [
+        "grasp(pumpkin_94)_1",
+        "open(bottom_cabinet_rhdbzv_0)_2",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_3"
+    ],
+    "close(bottom_cabinet_rhdbzv_0)_2": [
+        "open(bottom_cabinet_rhdbzv_0)_2",
+        "navigate_to(bottom_cabinet_rhdbzv_0)_3"
+    ],
+    "navigate_to(cauldron_92)_1": [],
+    "grasp(cauldron_92)_1": [
+        "navigate_to(cauldron_92)_1"
+    ],
+    "navigate_to(breakfast_table_xftrki_0)_1": [],
+    "place_nextto(cauldron_92, breakfast_table_xftrki_0)_1": [
+        "grasp(cauldron_92)_1",
+        "navigate_to(breakfast_table_xftrki_0)_1"
+    ]
+}
