@@ -306,7 +306,7 @@ if __name__ == "__main__":
             # for i in range(5):
             #     try:
             #         answer = gpt(
-            #             api_key='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',
+            #             api_key='',
             #             prompt=prompt,
             #             image_file=image_file,
             #             image_url_list=image_url_list,
@@ -332,7 +332,7 @@ if __name__ == "__main__":
             #             "model":"gpt-40-mini",
             #         })
 
-            answer, reason = qwen("sk-75ff0fac6cbb4d21b68a17e910540b4e", prompt, image_url_list)
+            answer, reason = qwen("", prompt, image_url_list)
             answer = ast.literal_eval(answer)
 
             results.append({
